@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block main %}
+    {% if search_term %}
+        <h2>Search Results for: {{ search_term }}</h2>
+    {% else %}
+        <h2>{{ table_type }}</h2>
+    {% endif %}
+
+    <table>
+        <thead>
+            <tr>
+                <td>Tag</td>
+                <td>Description</td>
+            </tr>
+        </thead>
+        <tbody>
+        {% if data %}
+            {% for row in data %}
+                <tr>
+                    <td>{{ row[0] }}</td>
+                    <td>{{ row[1] }}</td>
+                </tr>
+            {% endfor %}
+        {% else %}
+            <tr>
+                <td colspan="2">No results found</td>
+            </tr>
+        {% endif %}
+        </tbody>
+    </table>
+{% endblock %}

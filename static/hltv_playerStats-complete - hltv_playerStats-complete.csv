@@ -1,0 +1,804 @@
+player_name,country,teams_played_in,kd_ratio,rating,total_kills,headshot_percentage
+ZywOo,France,"['Vitality', 'aAa']",1.38,1.27,21602,41.3
+s1mple,Ukraine,['Natus Vincere'],1.34,1.25,34647,41.3
+sh1ro,Russia,"['Gambit Youngsters', 'Gambit']",1.45,1.23,17320,27.9
+deko,Russia,['1WIN'],1.37,1.22,8219,36.9
+Kaze,Malaysia,"['ViCi', 'Flash', 'MVP.karnal']",1.32,1.2,16957,30.3
+degster,Russia,"['Spirit', 'Espada']",1.3,1.19,13820,34.8
+smooya,United Kingdom,"['BIG', 'Movistar Riders', 'Epsilon']",1.27,1.18,17883,27.7
+sterling,New Zealand,"['Looking For Org', 'AVANT', 'Dire Wolves']",1.31,1.17,16815,31.5
+XANTARES,Turkey,"['Eternal Fire', 'Space Soldiers', 'BIG']",1.2,1.17,36911,53.3
+torzsi,Hungary,"['MOUZ', 'Budapest Five', 'MOUZ NXT', 'Salamander']",1.26,1.17,8946,29.2
+DANK1NG,China,"['TYLOO', 'EHOME']",1.25,1.16,7867,39.7
+device,Denmark,"['Astralis', 'TSM']",1.25,1.16,36293,35
+SENSEi,Ukraine,"['Run or Die', 'CR4ZY', 'Project X', 'Akuma']",1.33,1.16,8421,31.4
+NiKo,Bosnia and Herzegovina,"['G2', 'FaZe', 'MOUZ']",1.19,1.16,33800,50.5
+BnTeT,Indonesia,"['TYLOO', 'Gen.G', 'EXTREMUM']",1.23,1.15,20329,39.8
+coldzera,Brazil,"['SK', 'FaZe', 'Luminosity', 'MIBR']",1.25,1.15,28326,49.4
+XigN,Korea,"['NKT', 'MVP PK', 'MVP Project']",1.2,1.15,14100,52.3
+Sico,New Zealand,"['Renegades', 'Grayhound', 'ORDER', 'Kings']",1.29,1.15,16985,35.2
+blameF,Denmark,"['Astralis', 'Complexity', 'Heroic', 'Epsilon']",1.25,1.15,16962,39.2
+KSCERATO,Brazil,['FURIA'],1.28,1.15,17117,49.6
+Benkai,Singapore,"['BOOT-d[S]', 'BOOT', 'dream[S]cape']",1.2,1.14,12164,46.7
+Jame,Russia,"['AVANGAR', 'Virtus.pro']",1.31,1.14,22028,25.2
+XELLOW,Romania,['Nexus'],1.18,1.14,21580,40.8
+Texta,Australia,"['Chiefs', 'Athletico', 'Dark Sided']",1.16,1.13,12510,40.3
+mhL,Poland,"['MOUZ NXT', 'AGO']",1.2,1.13,9397,28.4
+El1an,Russia,"['Entropiq', 'Winstrike', 'EPG']",1.23,1.13,25346,27.2
+oskar,Czech Republic,"['MOUZ', 'SINNERS', 'HellRaisers']",1.2,1.13,29326,30.5
+kennyS,France,"['G2', 'Envy', 'Titan']",1.21,1.13,37067,31.2
+frozen,Slovakia,"['MOUZ', 'eXtatus']",1.17,1.13,23231,54.8
+huNter-,Bosnia and Herzegovina,"['G2', 'Valiance', 'Binary Dragons']",1.16,1.12,29347,49.4
+mantuu,Poland,"['OG', 'ALTERNATE aTTaX', 'PANTHERS']",1.21,1.12,13659,35.8
+yuurih,Brazil,['FURIA'],1.19,1.12,19381,44.4
+erkaSt,Mongolia,"['Grayhound', 'TIGER', 'Immunity']",1.17,1.12,17206,50.2
+Freeman,Hong Kong,"['ViCi', 'TYLOO', 'VG.Flash']",1.18,1.12,14338,49.3
+INS,Australia,"['Renegades', 'Chiefs', 'ORDER', 'Tainted Minds']",1.17,1.12,17975,42.4
+chelleos,New Zealand,"['Paradox', 'Rooster', 'madlikewizards']",1.15,1.12,11255,32
+vsm,Brazil,"['00NATION', 'DETONA']",1.16,1.12,10883,47
+woxic,Turkey,"['Eternal Fire', 'HellRaisers', 'MOUZ', 'DarkPassage']",1.2,1.12,21900,32.3
+liTTle,Russia,"['forZe', 'RuSh3D', 'Spartak', 'Enso']",1.2,1.12,9317,27.7
+ropz,Estonia,['MOUZ'],1.21,1.12,21373,51.7
+dream3r,Bulgaria,"['SKADE', 'E-frag.net', 'Fiend']",1.21,1.12,24015,49.7
+kNgV-,Brazil,"['MIBR', 'INTZ']",1.17,1.12,16548,32.7
+Jamppi,Finland,"['SJ', 'ENCE']",1.16,1.12,10302,31.8
+wrath,United States,"['New Identity', 'Secret Club', 'BlackOut']",1.13,1.12,10634,50.1
+xsepower,Russia,"['K23', 'forZe']",1.24,1.11,23591,24.9
+oSee,United States,"['Extra Salt', 'Singularity', 'Cloud9']",1.19,1.11,20626,31.8
+PTC,Thailand,"['Lucid Dream', '5POWER']",1.18,1.11,9304,36.1
+GuardiaN,Slovakia,"['Natus Vincere', 'FaZe']",1.19,1.11,30375,29.6
+Twistzz,Canada,"['FaZe', 'Liquid']",1.18,1.11,25698,62.3
+NEOFRAG,Czech Republic,['SINNERS'],1.13,1.11,13155,49
+splashske,Singapore,"['BOOT-d[S]', 'HZ', 'BOOT', 'dream[S]cape']",1.15,1.11,14145,38.4
+dgt,Uruguay,['9z'],1.2,1.11,7848,49.7
+zorte,Russia,"['forZe', 'Unique']",1.2,1.11,13326,36.9
+ottoNd,Finland,"['HAVU', 'Valiance', 'CR4ZY', 'c0ntact']",1.19,1.11,16676,26.8
+FREDDyFROG,Sweden,"['Chaos', 'Red Reserve', 'Apeks', 'Japaleno', 'Galaxy Racer']",1.18,1.11,23743,40.3
+Brehze,United States,"['Evil Geniuses', 'NRG']",1.14,1.1,23029,52.4
+Infinite,United States,['Party Astronauts'],1.14,1.1,15744,50.9
+TenZ,Canada,"['Bad News Bears', 'ATK']",1.12,1.1,7931,51.3
+f0rest,Sweden,"['Dignitas', 'NIP']",1.16,1.1,40884,51.9
+CeRq,Bulgaria,"['Evil Geniuses', 'NRG', 'Outlaws']",1.18,1.1,22812,27.9
+Olivia,Thailand,"['Beyond', 'Alpha Red', 'Signature']",1.15,1.1,12279,37
+poizon,Bulgaria,"['Complexity', 'Windigo', 'Bpro']",1.15,1.1,21485,33.6
+mertz,Denmark,"['North Academy', 'Heroic', 'North', 'Nordavind', 'Singularity']",1.16,1.1,19077,32.5
+ekul,Australia,"['Paradox', 'SYF']",1.13,1.1,8845,36.6
+nawwk,Sweden,"['Apeks', 'GamerLegion', 'NIP', 'x6tence Galaxy']",1.19,1.1,16778,35.3
+WARDELL,Canada,"['Ghost', ""Bee's Money Crew"", 'Orgless']",1.17,1.1,11627,27.2
+swag,United States,"['Swole Patrol', 'Torqued', 'iBUYPOWER', 'Lazarus']",1.18,1.1,10527,49.5
+hades,Poland,"['ENCE', 'Wisla Krakow']",1.18,1.1,10992,29.8
+mir,Russia,"['Spirit', 'Vega Squadron', 'Gambit']",1.15,1.1,19402,52.2
+HEN1,Brazil,"['Immortals', 'FURIA', 'Luminosity']",1.21,1.1,19719,28.6
+aliStair,Australia,"['Renegades', 'ORDER', 'Chiefs']",1.17,1.1,19355,35.1
+h4rn,Bulgaria,"['FATE', 'Fiend']",1.18,1.1,9803,29.1
+Ax1Le,Russia,"['Gambit Youngsters', 'Gambit']",1.16,1.1,17753,48.9
+dumau,Brazil,"['GODSENT', 'Yeah']",1.18,1.1,8417,41.3
+Calyx,Turkey,"['Eternal Fire', 'Space Soldiers', 'DarkPassage']",1.16,1.1,20404,56.9
+moose,Canada,"['eUnited', 'Rise Nation']",1.16,1.1,14503,44.1
+nython,Brazil,"['paiN', 'RED Canids', 'Paquetá']",1.15,1.1,9580,37.9
+xccurate,Indonesia,"['TYLOO', 'Recca', 'BTRG', 'NKT']",1.15,1.09,13334,31.2
+mixwell,Spain,"['OpTic', 'Movistar Riders']",1.13,1.09,16275,38.1
+allu,Finland,"['ENCE', 'NIP', 'FaZe']",1.16,1.09,31240,28.6
+electroNic,Russia,"['Natus Vincere', 'FlipSid3']",1.14,1.09,25165,50.5
+Farlig,Denmark,"['Copenhagen Flames', 'FunPlus Phoenix', 'GODSENT']",1.16,1.09,13265,33.4
+syrsoN,Germany,"['BIG', 'ALTERNATE aTTaX', 'Sprout']",1.16,1.09,32760,29.6
+lollipop21k,Belarus,"['Nemiga', 'GoodJob']",1.12,1.09,23157,49.2
+floppy,United States,"['Cloud9', 'Singularity']",1.13,1.09,15453,49.4
+PwnAlone,United States,"['Party Astronauts', 'New England Whalers', 'High Coast']",1.15,1.09,16836,31.8
+Spinx,Israel,"['ENCE', 'c0ntact']",1.14,1.09,7918,56.9
+GeT_RiGhT,Sweden,['NIP'],1.15,1.09,33271,49.3
+JUGi,Denmark,"['Heroic', 'OpTic', 'Tricked', 'North']",1.18,1.09,17527,27.8
+dexter,Australia,"['MOUZ', 'Grayhound', 'Renegades']",1.13,1.09,18309,48.8
+Cooper,United States,"['Swole Patrol', 'eUnited', 'Triumph']",1.16,1.09,14332,32.3
+Sonic,South Africa,"['Bravado', 'Extra Salt', 'Cloud9']",1.14,1.09,17758,46.6
+JOTA,Brazil,"['MIBR', 'Bravos', 'Keyd', 'Santos']",1.14,1.09,7352,41.5
+zehN,Finland,"['GODSENT', 'HAVU', 'PENTA', 'FunPlus Phoenix']",1.13,1.09,20665,46
+ZOREE,Finland,"['HAVU', 'iGame.com', 'SJ']",1.16,1.09,31759,32.2
+NAF,Canada,"['Liquid', 'OpTic']",1.16,1.09,29440,41.8
+gas,China,"['Wings Up', 'LGD', 'EDG', 'Aster']",1.09,1.09,9038,60.3
+cynic,United States,"['Party Astronauts', 'Triumph']",1.15,1.09,11994,40.7
+ryx,United States,"['Echo Fox', 'Splyce', 'Ghost', 'Dignitas', 'Tempo Storm', 'Conquest']",1.14,1.09,9797,36.3
+mezii,United Kingdom,"['fnatic', 'Endpoint', 'GamerLegion', 'Cloud9', 'Vexed']",1.14,1.09,9829,49.8
+BL1TZ,Australia,"['Chiefs', 'Legacy', 'AVANT', 'Funky Monkeys']",1.13,1.09,13957,43
+ScreaM,Belgium,"['Envy', 'G2', 'Titan', 'VeryGames']",1.13,1.09,27501,68.1
+EliGE,United States,['Liquid'],1.11,1.09,31338,48.9
+HaZR,Australia,"['Looking For Org', 'AVANT', 'Breakaway', 'Dire Wolves']",1.1,1.09,14687,55.9
+faveN,Germany,"['Sprout', 'EURONICS']",1.13,1.09,25954,54.4
+dennyslaw,Bulgaria,['SKADE'],1.14,1.09,22051,31.4
+biguzera,Brazil,['paiN'],1.15,1.09,11066,51.3
+nex,Germany,"['BIG', 'MOUZ']",1.13,1.09,21063,51.5
+fer,Brazil,"['SK', 'MIBR', 'Luminosity']",1.11,1.09,27300,44.9
+k0nfig,Denmark,"['Dignitas', 'OpTic', 'Complexity', 'North']",1.09,1.09,30190,55.8
+valde,Denmark,"['OG', 'North', 'Heroic']",1.13,1.09,24018,46.8
+dupreeh,Denmark,"['Astralis', 'TSM']",1.14,1.09,36431,50.6
+nukkye,Lithuania,"['Imperial', 'HellRaisers', 'NoChance']",1.13,1.08,11227,39.2
+Attacker,China,"['TYLOO', 'Flash']",1.13,1.08,23926,46.4
+junior,United States,"['Complexity', 'Triumph', 'Bad News Bears', 'FURIA']",1.18,1.08,8596,29.3
+exit,Brazil,"['MIBR', 'Sharks']",1.17,1.08,12707,45.3
+Magisk,Denmark,"['Astralis', 'SK', 'Dignitas']",1.14,1.08,25858,47.5
+Savage,China,"['VG.CyberZen', 'ViCi', 'CyberZen', '5POWER']",1.14,1.08,15647,37
+Machinegun,Mongolia,"['TheMongolz', 'Mazaalai', 'Splyce']",1.09,1.08,8143,50
+DJOXiC,Serbia,"['Binary Dragons', 'iNation', 'Valiance']",1.15,1.08,9002,29.8
+Detrony,South Africa,['Bravado'],1.13,1.08,7633,34.7
+Summer,China,"['TYLOO', 'Flash']",1.14,1.08,23556,48.8
+Hatz,Australia,"['Renegades', 'ORDER', 'Kings']",1.14,1.08,17120,50.8
+keev,Germany,"['ALTERNATE aTTaX', 'BIG', 'KILLERFISH']",1.12,1.08,11408,29.1
+felps,Brazil,"['SK', 'GODSENT', 'Immortals', 'Tempo Storm']",1.09,1.08,19490,43.9
+draken,Sweden,"['Epsilon', 'NIP', 'Red Reserve']",1.15,1.08,20821,31
+sergej,Finland,"['GORILLAZ', 'ENCE', 'HAVU']",1.14,1.08,14855,48.2
+pz,Australia,"['VERTEX', 'TRUCKERS WITH ATTITUDE', 'Airborne']",1.14,1.08,7962,29.3
+ShahZaM,United States,"['Complexity', 'Misfits', 'Echo Fox', 'Conquest', 'OpTic']",1.13,1.08,18509,34
+jayzaR,Sweden,"['Valiance', 'Enyoy']",1.1,1.08,10382,36.3
+FL1T,Russia,['forZe'],1.13,1.08,24004,46.9
+Ryxxo,Denmark,"['Tricked', 'Singularity']",1.14,1.08,15729,33
+MICHU,Poland,"['Virtus.pro', 'Kinguin', 'CSGL']",1.1,1.08,33874,50.7
+hAdji,France,"['LDLC', 'EnVyUs Academy', '3DMAX']",1.11,1.08,21859,48.9
+Rickeh,Australia,"['ORDER', 'CLG', 'Rogue', 'Renegades']",1.15,1.07,17589,37.8
+ptr,United States,"['Bad News Bears', 'NRG', 'Complexity']",1.15,1.07,20902,26
+slaxz-,Germany,"['Sprout', 'ALTERNATE aTTaX']",1.14,1.07,16323,29.6
+Impulse,Serbia,"['Valiance', 'ONYX', 'lvlUP', 'RESISTANCE']",1.12,1.07,14644,35.4
+dapr,United States,['eUnited'],1.1,1.07,11313,44.1
+nicoodoz,Denmark,['Copenhagen Flames'],1.15,1.07,13211,31.3
+YEKINDAR,Latvia,"['pro100', 'Virtus.pro', 'EPG']",1.07,1.07,21415,59.2
+Liazz,Australia,"['Renegades', 'ORDER', '100 Thieves', 'Kings', 'Athletico', 'EXTREMUM']",1.14,1.07,17464,45.8
+meyern,Argentina,"['Furious', 'MIBR', 'Isurus', 'Sharks']",1.1,1.07,8080,54.1
+NaToSaphiX,Denmark,"['Sprout', 'Nordavind']",1.16,1.07,17805,36.8
+shox,France,"['G2', 'Vitality', 'Envy']",1.11,1.07,38385,48.8
+iDISBALANCE,Russia,"['Nemiga', 'Spirit']",1.14,1.07,16215,27
+autimatic,United States,"['Cloud9', 'Gen.G']",1.11,1.07,22601,44.3
+fejtZ,Estonia,"['SMASH', 'ArchAngels']",1.1,1.07,14402,46
+jks,Australia,"['Renegades', 'Complexity', '100 Thieves']",1.12,1.07,21807,52.9
+smike,Ukraine,"[""spray'n'pray"", 'pro100', 'ACG', 'eXplosive', 'k1ck']",1.08,1.07,9299,33.1
+NikoM,Argentina,"['TeamOne', 'Isurus', 'DETONA']",1.11,1.07,8906,46.3
+trk,Brazil,"['TeamOne', 'MIBR']",1.11,1.07,15052,48.2
+hallzerk,Norway,"['Dignitas', 'Nordavind']",1.11,1.07,14681,34.1
+dycha,Poland,"['ENCE', 'Sprout', 'Aristocracy']",1.09,1.07,15005,53.8
+xand,Brazil,"['INTZ', 'Yeah']",1.1,1.07,9681,50.2
+paz,Turkey,"['Space Soldiers', 'Sangal']",1.11,1.07,20217,51.2
+CRUC1AL,Netherlands,"['Endpoint', 'Epsilon']",1.11,1.07,27614,28.9
+InfrequeNt,Australia,"['Athletico', 'Tainted Minds', 'Chiefs']",1.11,1.07,8937,33.8
+HObbit,Kazakhstan,"['Gambit', 'Winstrike']",1.11,1.07,21968,46.6
+boltz,Brazil,"['Immortals', 'Luminosity', 'SK', 'MIBR']",1.13,1.07,23379,39.4
+EspiranTo,Lithuania,"['Imperial', 'Valiance', 'CR4ZY', 'c0ntact']",1.08,1.07,16973,59.9
+WorldEdit,Russia,"['FlipSid3', 'pro100', 'Winstrike']",1.11,1.07,25226,28
+QKA,China,"['5POWER', 'UYA', 'BOOT']",1.1,1.07,7690,40.4
+FalleN,Brazil,"['SK', 'MIBR', 'Luminosity']",1.15,1.07,27904,30.8
+somebody,China,['TYLOO'],1.1,1.07,23702,45.8
+Brollan,Sweden,"['fnatic', 'GODSENT']",1.09,1.07,18732,52.5
+shroud,Canada,['Cloud9'],1.12,1.07,12588,52.9
+Pimp,Denmark,"['Dignitas', 'SK', 'Liquid', 'CPH Wolves']",1.13,1.07,18116,46.6
+fame,Russia,"['K23', 'SG.pro']",1.1,1.07,9589,57.6
+hardzao,Brazil,"['paiN', 'DETONA']",1.14,1.07,12073,47.1
+anarkez,Israel,"['Finest', 'Secret']",1.11,1.07,12819,30.8
+roeJ,Denmark,"['Copenhagen Flames', 'MAD Lions', 'Tricked']",1.09,1.07,17051,55.5
+shz,Brazil,"['Luminosity', 'Imperial', 'MIBR', 'INTZ', 'BOOM']",1.11,1.07,14776,51.2
+chelo,Brazil,"['MIBR', 'INTZ', 'Luminosity']",1.1,1.07,16149,60.9
+DD,China,"['TYLOO', 'OneThree']",1.1,1.07,17368,41.9
+broky,Latvia,"['FaZe', 'Epsilon']",1.14,1.06,12148,38.6
+NikkeZ,Australia,"['Ground Zero', 'Athletico', 'Legacy']",1.08,1.06,7677,46.5
+snatchie,Poland,"['AGO', 'Virtus.pro', 'Sprout']",1.09,1.06,30062,29.3
+zhokiNg,China,"['ViCi', 'VG.CyberZen']",1.07,1.06,22986,51
+ofnu,New Zealand,"['Tainted Minds', 'Chiefs', 'AVANT', 'Winterfox']",1.1,1.06,15793,48.9
+AnJ,Denmark,"['NRG', 'Singularity', 'Tricked']",1.11,1.06,7530,50.7
+Ethan,United States,"['NRG', 'CLG', 'Evil Geniuses']",1.09,1.06,18853,49.4
+Happy,France,"['Envy', 'LDLC']",1.11,1.06,28022,41.2
+acoR,Denmark,"['Tricked', 'North Academy', 'MAD Lions', 'MOUZ']",1.11,1.06,19475,38.1
+b1t,Ukraine,"['Natus Vincere', 'NAVI Junior']",1.11,1.06,7855,68.4
+SHiPZ,Bulgaria,"['SKADE', 'Windigo']",1.07,1.06,32404,50
+COLDYY1,Ukraine,['Spirit'],1.11,1.06,17902,55.1
+flying,China,['Invictus'],1.08,1.06,7736,50.7
+SLOWLY,China,"['TYLOO', 'EHOME']",1.07,1.06,10108,59.4
+Valiance,Australia,"['ORDER', 'Paradox']",1.1,1.06,11723,51.5
+Skadoodle,United States,['Cloud9'],1.15,1.06,18365,24.8
+pancc,Brazil,"['W7M', 'Sharks']",1.08,1.06,11087,53.6
+b4rtiN,Brazil,"['GODSENT', 'TeamOne']",1.1,1.06,9496,55.3
+koosta,United States,"['CLG', 'Ghost', 'Gen.G', 'Enemy']",1.08,1.06,18522,37.3
+Maka,France,"['Heretics', 'LDLC', '3DMAX']",1.1,1.06,22108,36
+suNny,Finland,"['ENCE', 'MOUZ', 'PENTA']",1.07,1.06,25460,47.4
+tucks,Australia,['Chiefs'],1.1,1.06,12952,43.9
+TOR,Thailand,"['Signature', 'Beyond']",1.09,1.06,8271,28.9
+olofmeister,Sweden,"['fnatic', 'FaZe']",1.1,1.06,29037,46.6
+malbsMd,Guatemala,"['TeamOne', 'Infinity']",1.04,1.06,10096,62.9
+nexa,Serbia,"['G2', 'Valiance', 'Imperial']",1.1,1.05,22808,51
+Gratisfaction,New Zealand,"['Grayhound', 'Renegades', '100 Thieves', 'Immunity', 'EXTREMUM']",1.12,1.05,16191,31.9
+KEi,Poland,"['AVEZ', 'Anonymo', 'Sprout']",1.05,1.05,12649,46.4
+REDSTAR,Bulgaria,"['Fiend', 'Bpro']",1.11,1.05,11529,48.3
+rallen,Poland,"['Kinguin', 'AGO']",1.1,1.05,33560,43
+Sobol,Poland,"['Wisla Krakow', 'PACT']",1.08,1.05,15028,52.1
+bottle,China,"['Invictus', 'Born Of Fire', 'Eclipse', '5POWER', 'CyberZen']",1.06,1.05,14489,56.8
+iM,Romania,"['GamerLegion', 'Nexus']",1.06,1.05,15153,48.7
+tabseN,Germany,"['BIG', 'PENTA', 'MOUZ']",1.04,1.05,36872,48.9
+ISSAA,Jordan,"['HellRaisers', 'OG']",1.09,1.05,16229,55.5
+zeph,Australia,"['ORDER', 'Chiefs', 'Ground Zero']",1.06,1.05,10452,48.7
+Rainwaker,Bulgaria,['SKADE'],1.1,1.05,20281,42.5
+JW,Sweden,['fnatic'],1.07,1.05,37047,36.6
+Ramz1kBO$$,Kazakhstan,"['Tengri', 'Syman']",1.07,1.05,8110,33.8
+TeSeS,Denmark,"['Heroic', 'Copenhagen Flames']",1.07,1.05,15351,55.3
+HZ,China,"['TYLOO', 'CyberZen', 'AllGamers']",1.08,1.05,9305,49.4
+cajunb,Denmark,"['North', 'TSM', 'OpTic', 'Dignitas']",1.1,1.05,31980,41
+mou,Kazakhstan,"['Gambit', 'K23', 'HellRaisers', 'Syman']",1.1,1.05,28048,28
+juanflatroo,Kosovo,"['BLINK', 'Secret']",1.04,1.05,10762,57.2
+Grim,United States,"['Liquid', 'Triumph', 'Dignitas', 'Spacestation']",1.05,1.05,16450,47.9
+sdy,Ukraine,['Spirit'],1.11,1.05,19254,50.8
+KRIMZ,Sweden,['fnatic'],1.1,1.05,32732,40.8
+Marcelious,Norway,"['Apeks', '777', 'NOREG']",1.08,1.05,8902,31.2
+yay,United States,"['Complexity', 'Orgless']",1.05,1.05,12452,46.7
+Qikert,Kazakhstan,"['AVANGAR', 'Virtus.pro']",1.09,1.05,22914,56.4
+refrezh,Denmark,"['Heroic', 'Fragsters', 'Copenhagen Flames', 'Tricked', 'OpTic']",1.08,1.05,17918,49.4
+SicK,United States,"['Rogue', 'Misfits', 'TSM']",1.07,1.05,15002,49.8
+NEEX,Poland,"['Izako Boars', 'ESC']",1.08,1.05,8076,31.3
+Aerial,Finland,"['HAVU', 'ENCE']",1.07,1.05,17881,41.6
+stavn,Denmark,"['Heroic', 'Fragsters']",1.07,1.05,21088,43.1
+loWel,Spain,"['Movistar Riders', 'PENTA', 'MOUZ']",1.1,1.05,18549,47.5
+Flarich,Latvia,"['HellRaisers', 'pro100']",1.1,1.05,19389,55.2
+raafa,Brazil,"['W7M', 'Keyd']",1.1,1.05,11650,27.4
+Zellsis,United States,"['Swole Patrol', 'Lazarus']",1.07,1.05,11657,46.4
+flusha,Sweden,['fnatic'],1.08,1.05,34701,42
+WolfY,United States,"['ECSTATIC', 'Lyngby Vikings', 'Secret Club']",1.11,1.05,9766,34.7
+rommi,Russia,"['Spirit Academy', 'HOLLYWOOD', 'PLINK', '1337']",1.06,1.05,9899,50.8
+Bwills,United States,"['Triumph', 'Infamous']",1.07,1.05,13698,51.4
+cadiaN,Denmark,"['Heroic', 'Rogue', 'SK']",1.1,1.05,26511,27.6
+kabal,Mongolia,"['5POWER', 'TheMongolz', 'TIGER']",1.08,1.04,14338,46
+malta,Australia,"['Grayhound', 'Chiefs', 'Renegades']",1.09,1.04,17507,39.7
+MarKE,Mexico,"['Extra Salt', 'eUnited', 'Swole Patrol']",1.09,1.04,16750,53.1
+Swahn,United States,"['Bad News Bears', 'iNTACT', 'Detonate', 'Bushido Boyz']",1.09,1.04,6902,25.5
+Kjaerbye,Denmark,"['North', 'Dignitas', 'Astralis']",1.08,1.04,28410,52.9
+afro,France,"['HEET', 'DBL PONEY', 'LDLC']",1.09,1.04,10077,35.3
+FASHR,Netherlands,"['ECSTATIC', 'Lyngby Vikings', 'Defusekids']",1.05,1.04,13083,49
+n0rb3r7,Russia,"['K23', 'Winstrike', 'Syman']",1.04,1.04,20194,50.8
+DavCost,Russia,"['INDE IRAE', 'Spirit', '1WIN']",1.09,1.04,23087,32.5
+zewsy,New Zealand,"['Tainted Minds', 'Chiefs', 'Winterfox']",1.06,1.04,11142,41
+STOMP,Poland,"['x-kom', 'Izako Boars', 'Illuminar', 'HONORIS']",1.1,1.04,15139,26.1
+aumaN,China,['ViCi'],1.08,1.04,15892,41.7
+jkaem,Norway,"['Apeks', 'Renegades', 'FaZe', '100 Thieves']",1.05,1.04,24647,51.6
+Snakes,United States,"['Spacestation', 'The Quest', 'SoaR']",1.07,1.04,7287,43.3
+Hiko,United States,"['Liquid', 'Rogue']",1.1,1.04,16611,53.9
+Geniuss,Thailand,"['Signature', 'Beyond', 'Lucid Dream']",1.04,1.04,7345,56.4
+Snax,Poland,"['Virtus.pro', 'Anonymo']",1.08,1.04,39086,36.5
+KHTEX,Brazil,"['Paquetá', 'Wild', 'Virtue']",1.09,1.04,10950,45.5
+Lucky,Denmark,"['Tricked', 'Astralis']",1.09,1.04,8079,40.5
+HSK,Korea,"['MVP PK', 'MVP Project', 'GOSU']",1.1,1.04,9678,31.1
+motm,United States,"['ATK', 'Cloud9']",1.05,1.04,17181,51
+fnx,Brazil,"['Imperial', 'Luminosity', 'SK', 'Immortals', 'RED Canids', 'Não Tem Como']",1.08,1.04,11678,49.7
+imoRR,Turkey,"['Eternal Fire', 'Sangal', 'Royal Bandits']",1.02,1.04,11800,50.9
+twist,Sweden,"['GODSENT', 'fnatic', 'NIP']",1.06,1.04,31654,41.3
+Bubzkji,Denmark,"['Tricked', 'Fragsters', 'MAD Lions', 'Astralis']",1.07,1.04,15534,50.8
+buster,Kazakhstan,"['AVANGAR', 'Virtus.pro']",1.1,1.04,22339,47.9
+eraa,Sweden,['GamerLegion'],1.07,1.04,10697,33.2
+ANDROID,Canada,"['Complexity', 'Envy']",1.07,1.04,15394,50.7
+LOVEYY,China,"['Flash', 'VG.CyberZen', 'VG.Flash']",1.06,1.04,12939,52
+Kntz,Thailand,"['Alpha Red', 'Beyond', 'NSPR']",1.08,1.04,9085,47.3
+Maden,Montenegro,"['ENCE', 'GODSENT', 'FunPlus Phoenix', 'SMASH']",1.04,1.04,12632,51.5
+Lucky,France,"['Heretics', 'DBL PONEY', 'G2', '3DMAX']",1.07,1.03,21748,41.5
+Davidp,Belgium,"['3DMAX', 'Heretics']",1.08,1.03,14255,39.7
+tb,China,"['VG.CyberZen', 'CyberZen', 'ViCi']",1.07,1.03,11088,49.9
+dEE,Serbia,"['lvlUP', '4glory', 'Juggernauts', 'BLUEJAYS']",1.07,1.03,8169,33.5
+tarik,United States,"['CLG', 'Evil Geniuses', 'Cloud9', 'OpTic']",1.05,1.03,26620,37.8
+land1n,Brazil,"['paiN', 'Wild', 'Case', 'BigGods']",1.1,1.03,13320,31
+F1KU,Poland,['AGO'],1.04,1.03,11046,55
+dobu,Mongolia,"['5POWER', 'TIGER', 'TheMongolz']",1.05,1.03,14386,54.5
+REZ,Sweden,"['NIP', 'Epsilon']",1.06,1.03,24506,49.5
+rAge,Ukraine,"['Hard Legion', 'Windigo Academy']",1.11,1.03,6850,31.8
+NK4Y,Bulgaria,"['Outlaws', 'Bpro', 'ex-Epsilon']",1.05,1.03,8697,62.1
+sjuush,Denmark,"['Heroic', 'Tricked', 'MAD Lions']",1.07,1.03,14395,52.6
+JUST,Portugal,"['SAW', 'OFFSET']",1.06,1.03,15585,55.3
+USTILO,Australia,"['Renegades', 'ORDER']",1.05,1.03,20847,46
+Subroza,Canada,"['Ghost', 'FRENCH CANADIANS', 'CLG', 'Lazarus', 'Orgless']",1.03,1.03,11748,48.4
+TRAVIS,Russia,['1WIN'],1.05,1.03,9024,54.7
+JonY BoY,Argentina,"['Gale Force', 'Miami Flamingos', 'Furious', 'Isurus']",1.05,1.03,7530,34.8
+max,Uruguay,"['9z', 'Isurus', 'Furious']",1.06,1.03,9999,45.8
+juho,Finland,"['ENCE', 'iGame.com']",1.02,1.03,14492,45.7
+DannyG,Australia,"['Rooster', 'Paradox']",1.04,1.03,6994,46.5
+yam,Australia,"['Renegades', 'Tainted Minds']",1.07,1.03,9755,34.6
+fleav,Hungary,"['Budapest Five', 'GameAgents']",1.03,1.03,10494,40.5
+alex,Spain,['Movistar Riders'],1.06,1.03,23291,45.8
+Relaxa,Sweden,"['Chaos', 'Red Reserve', 'Japaleno', 'Apeks', 'Galaxy Racer']",1.1,1.03,21475,30.2
+Lucaozy,Brazil,"['Sharks', 'DETONA', 'Reapers']",1.06,1.03,7353,50.7
+znajder,Sweden,"['GODSENT', 'fnatic', 'EURONICS']",1.06,1.03,19778,47.9
+DEV7L,Czech Republic,['eXtatus'],1.06,1.03,9988,34.2
+AiyvaN,Ukraine,"['pro100', ""spray'n'pray""]",1.05,1.03,12635,37.8
+DiMKE,Serbia,"['4glory', 'lvlUP', 'RESISTANCE', 'ONYX']",1.04,1.03,11835,46.9
+captainMo,China,"['TYLOO', 'OneThree']",1.04,1.03,14956,40.2
+phzy,Sweden,"['Young Ninjas', 'NIP']",1.08,1.03,8129,28.9
+KENSI,Russia,"['forZe', 'ex-ETHEREAL']",1.08,1.03,8718,55.3
+rain,Norway,['FaZe'],1.03,1.03,29498,56.2
+Thomas,United Kingdom,['Endpoint'],1.05,1.03,17428,41.5
+stfN,Germany,['ALTERNATE aTTaX'],1.06,1.03,24872,46.5
+Spargo,Finland,"['KOVA', 'hREDS']",1.05,1.03,8165,32.9
+RCF,Brazil,"['Sharks', 'Yeah', 'High Coast']",1.05,1.03,11965,43.3
+kressy,Germany,"['ALTERNATE aTTaX', 'Sprout', 'EURONICS']",1.06,1.03,20337,47.9
+Patitek,Poland,"['Izako Boars', 'x-kom', 'VenatoreS']",1.03,1.03,7153,51.6
+shuadapai,China,"['5POWER', 'Eclipse']",1.05,1.03,9880,52.4
+aizy,Denmark,"['North', 'Dignitas', 'FaZe']",1.04,1.03,28807,50.4
+cxzi,United States,"['Triumph', 'Strife']",1.01,1.03,7988,37.9
+FrostMisty,Indonesia,"['Recca', 'nxl']",1.07,1.03,6710,41.8
+fl0m,United States,['Mythic'],1.06,1.03,12087,29.8
+RIKO,United States,"['Monstars', 'Denial']",1.02,1.03,7573,52.7
+Forester,Russia,"['Entropiq', 'DreamEaters', 'Hard Legion']",1.05,1.03,21565,53.8
+dennis,Sweden,"['Apeks', 'fnatic', 'NIP', 'GamerLegion']",1.04,1.03,29842,54.4
+food,United States,"['eUnited', 'Singularity', 'Freedom 35']",1.05,1.03,8248,50.2
+FaNg,Canada,['Extra Salt'],1.05,1.03,11628,56
+flamie,Russia,['Natus Vincere'],1.05,1.03,29497,54.5
+Patsi,Russia,"['Spirit', 'Espada', 'Spirit Academy']",1.03,1.03,9244,45.1
+glowiing,Russia,"['1WIN', 'Trident', 'Cyber Legacy']",1.02,1.03,9120,55.4
+pashaBiceps,Poland,"['Virtus.pro', 'ESC']",1.04,1.02,29501,37.3
+hoody,Finland,['HAVU'],1.04,1.02,10871,49.6
+CyberFocus,Belarus,"['Nemiga', 'K29', 'Rebels', 'Empire']",1.04,1.02,9080,29.7
+Maluk3,Brazil,['TeamOne'],1.07,1.02,18315,29.2
+kai,Brazil,"['Bravos', 'C4', 'RED Canids']",1.05,1.02,8814,35.3
+Krad,Russia,"['Entropiq', 'DreamEaters', 'Hard Legion']",1.03,1.02,21101,48.7
+sLowi,Finland,['HAVU'],1.04,1.02,20905,51.6
+HexT,Canada,"['Carpe Diem', 'RBG']",1.04,1.02,8686,50.2
+smiley,Kazakhstan,"['Unique', '100PG', 'Se7en']",1.08,1.02,8764,28.8
+niko,Denmark,"['OG', 'Heroic', 'OpTic']",1.05,1.02,22111,49.4
+AMANEK,France,"['G2', 'LDLC', 'Misfits']",1.07,1.02,18691,45.2
+dragonfly,Denmark,['Fragsters'],1.06,1.02,9094,25.1
+szejn,Poland,"['MOUZ NXT', 'Izako Boars']",1.03,1.02,9375,51.7
+kolor,Hungary,"['Budapest Five', 'GameAgents', 'EURONICS']",1.03,1.02,10220,27.7
+JDC,Germany,"['MOUZ NXT', 'expert', 'Unicorns of Love', 'PANTHERS']",1.04,1.02,8625,51.4
+NBK-,France,"['Envy', 'G2', 'Vitality', 'OG', 'VeryGames']",1.04,1.02,37151,53.7
+DeStiNy,Brazil,"['Luminosity', 'Paquetá', 'INTZ', 'Wild']",1.02,1.02,19569,50.8
+jdm64,United States,"['Liquid', 'CLG', 'Envy']",1.06,1.02,14626,23.6
+HS,Estonia,"['Nordavind', 'PENTA']",1.02,1.02,20155,49.3
+bondik,Ukraine,"['HellRaisers', 'FlipSid3', 'Winstrike']",1.06,1.02,26353,47.7
+MonttY,Slovakia,"['eXtatus', 'eSuba']",1.04,1.02,9507,46.6
+mouz,Poland,"['Kinguin', 'Illuminar']",1.06,1.02,31019,50.2
+FANAT ROCKA,Russia,"['Unique', 'Quantum Bellator Fire', 'Space Jam']",1.06,1.02,8262,27.1
+disco doplan,Sweden,"['GODSENT', 'Epsilon', 'Galaxy Racer', 'Red Reserve']",1.05,1.02,22193,43.9
+Tuurtle,Brazil,"['MIBR', 'DETONA', 'Bravos', 'C4']",1.04,1.02,13040,54.9
+Nico,Denmark,"['Dignitas', 'CPH Wolves', 'Western Wolves']",1.09,1.02,6738,26
+NENO,North Macedonia,"['Binary Dragons', 'Valiance']",1.06,1.02,11634,42.4
+qqGOD,Thailand,"['Signature', 'Beyond', 'Lucid Dream']",1.03,1.02,10674,40.9
+Plopski,Sweden,"['NIP', 'x6tence Galaxy', 'Singularity']",1.05,1.02,18315,41.6
+Xyp9x,Denmark,"['Astralis', 'TSM']",1.08,1.02,33274,41.6
+MoeycQ,Australia,"['Immunity', 'Chiefs', 'Ground Zero', 'AVANT']",1.04,1.02,11650,36.9
+Spongey,United States,"['Bad News Bears', 'Triumph', 'The Quest']",1.08,1.02,13495,50.7
+v1c7oR,Bulgaria,"['Windigo', 'E-frag.net', 'Fiend']",1.04,1.02,33791,46.3
+apEX,France,"['Vitality', 'Envy', 'G2', 'Titan']",1.02,1.02,36577,51.8
+spaze,Russia,"['PiTER', 'Gambit', 'EPG']",1.01,1.02,10281,52
+Goofy,Poland,"['Wisla Krakow', 'PACT', 'x-kom']",1.02,1.02,21027,41.2
+b0denmaster,Sweden,"['ATK', 'Lilmix']",1.05,1.02,8954,33.7
+mar,Bulgaria,"['FATE', 'Finest']",1.03,1.02,13419,48.5
+Ace,United States,"['Rise Nation', 'eUnited']",1.08,1.02,7922,31.4
+Markoś,Poland,"['AVEZ', 'Wisla Krakow']",1.07,1.02,12079,29.6
+dimasick,Kazakhstan,"['AVANGAR', 'pro100']",1.04,1.02,10747,49.1
+yel,Brazil,"['Luminosity', 'INTZ', 'MIBR']",1.07,1.02,16210,29.8
+iDk,Brazil,"['TeamOne', 'Paquetá', 'Yeah']",1.04,1.02,15092,47
+queztone,Slovakia,['eXtatus'],1.02,1.02,13135,44.7
+ROBO,Belarus,['Nemiga'],1.05,1.02,12328,45.6
+steel,Canada,"['Chaos', 'Ghost', 'Torqued']",1.02,1.02,11498,45.7
+TENZKI,Denmark,"['Nordavind', 'Dignitas']",1.05,1.02,26979,52.9
+fr0slev,Denmark,"['AGF', 'Fragsters']",1.04,1.02,11143,48
+LETN1,Serbia,"['Valiance', 'Binary Dragons', 'iNation', 'CR4ZY']",1.06,1.02,19347,49.6
+fox,Portugal,"['Giants', 'k1ck', 'Kinguin', 'OFFSET']",1.03,1.02,19440,32
+n0thing,United States,"['Cloud9', 'Complexity']",1.03,1.02,14720,52.6
+SKYTTEN,Sweden,"['Orbit', 'LGB']",1.05,1.02,7087,45.2
+roseau,Indonesia,"['Recca', 'nxl']",1.02,1.02,7419,40.4
+roca,United States,"['Splyce', 'Echo Fox', 'Complexity', 'ELEVATE']",1.02,1.02,12336,51.4
+flickz,Australia,"['Chiefs', 'Athletico', 'Dark Sided']",1.05,1.02,7976,48.3
+xCeeD,United States,"['The Quest', 'Triumph', 'SoaR']",1.02,1.02,7858,44.1
+Jyo,Estonia,['Nemiga'],1.05,1.01,21200,40.7
+chrisJ,Netherlands,['MOUZ'],1.04,1.01,31011,41.5
+aproto,United States,"['CLG Academy', 'Vision', 'BlackOut']",1.01,1.01,7153,57.8
+Nodios,Denmark,"['Copenhagen Flames', 'x6tence']",1.04,1.01,13132,53.9
+bedonka,Australia,"['Paradox', 'SYF']",1.02,1.01,6857,53.7
+es3tag,Denmark,"['Heroic', 'Tricked']",1.03,1.01,23231,35.6
+Voltage,United States,"['The Quest', 'Triumph', 'SoaR', 'Dignitas']",1.08,1.01,7099,28.5
+delboNi,Brazil,"['Imperial', 'Case', 'Yeah']",1.03,1.01,9153,44.8
+Kylar,Poland,"['AVEZ', 'Anonymo']",1.03,1.01,10655,58.9
+byali,Poland,"['Virtus.pro', 'AVEZ']",1.04,1.01,33745,51.6
+GruBy,Poland,"['AGO', 'AGG']",1.03,1.01,30241,42.5
+Zyphon,Denmark,['Copenhagen Flames'],1.04,1.01,7365,51.3
+PlesseN,Sweden,"['Galaxy Racer', 'Chaos', 'Japaleno', 'Red Reserve', 'fnatic Academy']",1.01,1.01,23886,54.5
+desi,United States,"['Winterfox', 'Complexity', 'SKDC']",1.01,1.01,7826,51.5
+arT,Brazil,['FURIA'],1.01,1.01,17866,34.4
+b0RUP,Denmark,"['Tricked', 'Heroic', 'MAD Lions']",1.02,1.01,25466,63.8
+HUGHMUNGUS,Australia,"['Chiefs', 'Legacy', 'Genuine', 'Funky Monkeys']",1.04,1.01,13159,50.7
+tatazin,Brazil,"['paiN', 'Wild', 'Yeah', 'BigGods']",1.08,1.01,12958,46.3
+Swisher,United States,"['Bad News Bears', 'Yeah']",1.02,1.01,10359,47.5
+Maikelele,Sweden,"['NoChance', 'GODSENT']",1.05,1.01,18850,37
+Lekr0,Sweden,"['Dignitas', 'NIP', 'fnatic', 'GODSENT']",1.03,1.01,24036,51.5
+mitch,United States,"['Selfless', 'Bad News Bears', 'Dignitas', 'Riot Squad']",1.05,1.01,14179,44.4
+shokz,Estonia,"['Finest', 'Movistar Riders']",1.03,1.01,10960,53.8
+hampus,Sweden,"['NIP', 'GamerLegion', 'Red Reserve', 'GODSENT']",1.01,1.01,25171,40.5
+Noobster,Australia,"['Ground Zero', 'Paradox', 'SYF']",1.02,1.01,8741,34.5
+Viva,China,"['Invictus', '5POWER', 'CyberZen']",1.05,1.01,10605,46
+ap0c,Australia,"['Looking For Org', 'AVANT', 'Tainted Minds', 'Chiefs']",1.02,1.01,16396,50.8
+jedqr,Poland,"['Wisla Krakow', 'x-kom']",1.04,1.01,15083,53.5
+obj,Portugal,"['OFFSET', 'eXploit', 'Giants', 'AlienTech']",1.06,1.01,7278,31.6
+1962,Argentina,"['Isurus', 'Leviatan']",1,1.01,10539,53.8
+spyleadeR,Bulgaria,"['E-frag.net', 'MK', 'GPlay']",1.01,1.01,16849,42.3
+SHOCK,Czech Republic,['SINNERS'],1.03,1.01,12110,55.5
+kreaz,Sweden,"['Finest', 'Apeks', 'Epsilon']",1.04,1.01,12487,47.3
+EasTor,Spain,"['Movistar Riders', 'OFFSET']",1.04,1.01,8883,28.3
+mirbit,Germany,"['ALTERNATE aTTaX', 'EURONICS', 'Sprout', 'Nordavind']",1.06,1.01,15351,44
+stadodo,Portugal,"['SAW', 'OFFSET']",1.04,1.01,13406,40.4
+Friis,Denmark,"['SK', 'fnatic', 'Heroic', 'Tricked']",1.05,1.01,16356,26.3
+grux,Sweden,"['Savage', 'Red Reserve', 'SMASH']",1.03,1.01,9112,67.1
+dazzLe,United States,"['eUnited', 'Rise Nation', 'New Identity']",1,1.01,12753,42
+ayaya,China,"['Eclipse', 'Born Of Fire', 'Flash', 'AllGamers']",1.01,1.01,8333,40.3
+reatz,Poland,"['PRIDE', 'Illuminar', 'Kinguin']",1.03,1.01,27899,51.5
+Stewie2K,United States,"['Cloud9', 'Liquid']",1.01,1.01,27664,49.4
+kalinka,Lithuania,"['HellRaisers', 'Playing Ducks']",1.01,1.01,16112,52.8
+Jinxx,Australia,"['Genuine', 'Taboo', 'Chiefs']",1.04,1.01,7054,52.7
+to1nou,Belgium,"['LDLC', 'LDLC White']",1.04,1.01,15196,30.5
+siuhy,Poland,"['MOUZ NXT', 'Izako Boars']",1,1.01,8914,53.3
+DickStacy,Australia,"['Grayhound', 'Dark Sided']",1.03,1.01,10534,48.9
+jR,Ukraine,"['Vega Squadron', 'HellRaisers']",1.04,1.01,16101,34
+DESPE,Turkey,['Space Soldiers'],1.04,1.01,8068,29.8
+kioShiMa,France,"['Envy', 'Heretics', 'FaZe']",1.05,1.01,26259,51.3
+zqkS,Brazil,"['Imperial', 'Yeah', 'Keyd']",1.06,1.01,12827,28.8
+speed4k,Russia,"['DreamEaters', 'Nemiga']",1.04,1.01,13678,39.2
+FugLy,United States,"['NRG', 'Liquid', 'Envy']",1.03,1.01,18921,43.4
+emagine,Australia,"['ORDER', 'Kings', 'Winterfox', 'Immunity']",1.04,1.01,12837,45.9
+Polt,Russia,"['1WIN', 'Unique']",1.05,1.01,9270,49.2
+Nifty,United States,"['Renegades', 'Envy', 'Selfless']",1.02,1.01,15336,36.3
+Tsogoo,Mongolia,"['TheMongolz', 'Mazaalai']",1.02,1,8486,52.9
+MINISE,Poland,"['PACT', 'PRIDE', 'Kinguin']",1.02,1,34615,39.7
+waterfaLLZ,Russia,"['Quantum Bellator Fire', 'PiTER', 'AVE', 'EPG']",1.02,1,16371,27.1
+pounh,Lithuania,"['Playing Ducks', 'Imperial', '1337HUANIA']",1.01,1,7289,49.5
+Zero,Slovakia,"['GamerLegion', 'HellRaisers']",1.04,1,19051,49.1
+innocent,Poland,"['Anonymo', 'Illuminar', 'CSGL']",1.02,1,31986,45.9
+Relyks,United States,"['eUnited', 'Enemy', 'Selfless', 'New Identity']",1.01,1,14589,48.8
+fenvicious,Russia,"['Unique', 'Spirit Academy', 'EPG']",1.01,1,13225,52.7
+nitr0,United States,['Liquid'],1.03,1,24080,44.4
+glace,Denmark,"['North Academy', 'Tricked', 'Rogue', 'No Problem!']",1.04,1,10395,52.2
+Oderus,United States,"['Spacestation', 'BlackOut', 'The Pioneers']",0.99,1,8738,34.3
+1uke,Russia,"['Spirit Academy', 'HOLLYWOOD', 'PLINK']",1.02,1,11017,26.4
+Edward,Ukraine,['Natus Vincere'],1.03,1,26683,51.1
+leo_drk,Brazil,"['Sharks', '00NATION']",1,1,10622,51.6
+R0b3n,Latvia,"['Unique', 'Space Jam', 'ex-ETHEREAL']",1.03,1,9427,49.8
+dzt,Brazil,"['Imperial', 'Case', 'BigGods']",1.01,1,11985,46.4
+SIXER,France,"['LDLC', 'Envy']",1.05,1,18826,39
+ALLE,Brazil,"['Isurus', 'Liberty', 'Redemption POA', 'C4']",1.02,1,7396,49.5
+Lack1,Kazakhstan,"['Entropiq', 'Winstrike']",1.01,1,16122,45.6
+hazed,United States,"['CLG', 'Mythic']",0.99,1,13273,49.8
+xiaosaGe,China,"['5POWER', 'Invictus', 'UYA']",1,1,15686,47.7
+almazer,Russia,['forZe'],1.03,1,23468,51.9
+kenzor,Ukraine,['pro100'],1.01,1,10785,54.8
+Djoko,France,"['HEET', 'DBL PONEY']",1,1,8338,61.5
+cbbk,Thailand,"['Lucid Dream', 'Beyond']",1.02,1,7029,51.2
+KILLDREAM,Portugal,"['AlienTech', 'k1ck', 'Giants']",1,1,7851,44.2
+Basso,Denmark,['Copenhagen Flames'],1.03,1,10081,53
+RoLEX,Thailand,"['Signature', 'ZIGMA', 'Beyond', 'MiTH']",1,1,8834,51.2
+SZPERO,Poland,"['Wisla Krakow', 'Kinguin', 'AGO']",1.02,1,36871,33.4
+zeff,Korea,['MVP PK'],1.01,1,8381,42
+cromen,Norway,['Nordavind'],1.01,1,11785,52.8
+adreN,United States,"['Liquid', 'Mythic']",1.03,1,12259,35.3
+supra,Estonia,"['Gambit Youngsters', 'Nordavind']",1.01,1,9463,57.9
+MODDII,Sweden,"['Heroic', 'SK']",1.02,1,20574,52.4
+mopoz,Spain,['Movistar Riders'],1,1,19981,51.6
+void,Australia,"['Ground Zero', 'Dark Sided']",1.02,1,7854,40
+pyth,Sweden,"['NIP', 'Vexed']",1,1,13677,56
+mds,Belarus,['Nemiga'],1.02,1,19543,53.4
+cam,United States,"['Singularity', 'Gorilla Gang', 'Chaos']",1.02,1,9454,50.8
+freakazoid,United States,"['Swole Patrol', 'Cloud9', 'Echo Fox']",1,1,15788,46.8
+xseveN,Finland,"['HAVU', 'ENCE', 'iGame.com', 'RCTIC']",1.02,1,22753,46.2
+Jerry,Russia,['forZe'],1.01,1,28109,45.8
+peet,Poland,"['AGG', 'Vexed', 'SEAL', 'eBettle']",1.01,1,6788,34
+STYKO,Slovakia,"['HellRaisers', 'MOUZ', 'GODSENT']",1.02,1,26959,57.5
+pecks,Australia,['Chiefs'],1.03,1,6620,45.9
+ImpressioN,Singapore,"['NKT', 'BOOT-d[S]', 'BTRG', 'dream[S]cape']",1.01,1,11760,48.8
+Noktse,Argentina,['Isurus'],1.02,1,13629,39.5
+Liki,Australia,"['Looking For Org', 'Dire Wolves', 'Bizarre', 'Skyfire']",1.03,1,6475,43.4
+truth,Norway,"['Apeks', 'ATK', 'Vexed']",1.01,1,8886,51.4
+vice,United States,"['Rogue', 'Cloud9']",1.01,1,8668,49.4
+Bååten,Sweden,"['x6tence Galaxy', 'Red Reserve', 'fnatic Academy', 'Chaos']",1,1,13293,56.5
+notaN,Denmark,"['MASONIC', 'Singularity', 'OPAA', 'Alpha']",1.01,1,7494,49.3
+reversive,Argentina,"['Leviatan', 'Isurus']",1.02,1,10800,43.6
+Cabbi,Denmark,"['MASONIC', 'Lyngby Vikings', 'AGF']",0.98,1,8085,55.7
+uli,Finland,['KOVA'],1.02,1,10203,48.7
+VINI,Brazil,['FURIA'],1,1,16583,48.8
+Vegi,Poland,"['Virtus.pro', 'PACT', 'Illuminar']",0.99,0.99,14720,47.5
+freddieb,Sweden,"['Epsilon', 'GODSENT', 'Red Reserve']",1.01,0.99,20728,52.9
+MUTiRiS,Portugal,"['SAW', 'k1ck', 'Giants']",1.01,0.99,21614,50.7
+SEMPHIS,Canada,"['Splyce', 'TSM', 'Complexity']",1,0.99,15472,36.5
+dephh,United Kingdom,['Complexity'],0.98,0.99,14252,47.6
+DeathZz,Spain,['Movistar Riders'],1.02,0.99,8580,49.6
+magixx,Russia,['Spirit'],1.03,0.99,10473,57.6
+robiin,Sweden,"['Endpoint', 'DenDD']",1,0.99,27500,48
+YDNA,Australia,"['Breakaway', 'Funky Monkeys', 'Dark Sided']",1.01,0.99,7636,38.9
+gMd,Canada,"['Rogue', 'FRENCH CANADIANS', 'LiViD', 'Spacestation']",0.99,0.99,8389,53.5
+ALEX,United Kingdom,"['fnatic', 'LDLC', 'Vitality']",0.98,0.99,21407,47.3
+markeloff,Ukraine,"['FlipSid3', 'HellRaisers']",1.03,0.99,19780,41.6
+xelos,Sweden,"['Lemondogs', 'Epsilon', 'AliGon']",1,0.99,7845,48.4
+Puls3,United Kingdom,"['Endpoint', 'FMESPORTS']",1.01,0.99,7860,43.3
+neptune,United States,"['Ghost', ""Bee's Money Crew"", 'Recon 5']",1,0.99,9091,55.4
+rbz,Australia,"['Paradox', 'Corvidae']",1.01,0.99,11278,48.9
+BENDJI,Sweden,"['Singularity', 'DenDD']",1.01,0.99,16055,32.5
+dukefissura,Kazakhstan,"['Unique', '100PG']",0.98,0.99,7230,60.7
+jaxi,Romania,['Nexus'],1.02,0.99,8103,40.5
+BARBARR,Sweden,"['Epsilon', 'x6tence Galaxy', 'Singularity']",1,0.99,15776,42.7
+kory,Hungary,"['Sangal', 'Budapest Five', 'Salamander']",0.99,0.99,8572,54.5
+Dima,Russia,"['Spirit', 'Espada']",0.98,0.99,23782,52.5
+JIaYm,Russia,"['HellRaisers', 'bankaPEPSI']",0.97,0.99,10080,52.5
+bubble,Bulgaria,"['Windigo', 'E-frag.net', 'Fiend']",1.02,0.99,37971,41.4
+ANGE1,Ukraine,['HellRaisers'],0.98,0.99,31392,51.3
+kaboose,United States,"['Selfless', 'Vision']",0.97,0.99,10006,54.9
+facecrack,Russia,"['forZe', 'PiTER']",0.98,0.99,31273,48.4
+Drone,United States,"['Splyce', 'Envy']",0.98,0.99,8164,61.8
+JACKZ,France,"['G2', 'EnVyUs Academy', '3DMAX']",0.99,0.99,18860,58.4
+krii,Latvia,"['EPG', 'Wolsung']",1,0.99,7051,49
+k1to,Germany,"['BIG', 'ALTERNATE aTTaX', 'Sprout']",0.98,0.99,22039,57.9
+sXe,Romania,"['Nexus', 'XPC']",0.99,0.99,9901,42.9
+Dosia,Russia,"['Gambit', 'HellRaisers']",1.01,0.99,25227,48.1
+morelz,Poland,"['PRIDE', 'Virtus.pro']",0.99,0.99,19525,46.8
+realziN,Brazil,"['W7M', 'Sharks', 'FURIA Academy']",1.01,0.99,9393,49.8
+vanity,United States,"['Chaos', 'eUnited', 'Gorilla Gang']",1.01,0.99,10461,41.8
+fitch,Kazakhstan,"['AVANGAR', 'Tengri', 'Gambit']",0.98,0.99,10410,52.6
+larsen,Denmark,"['Tricked', 'Movistar Riders']",1.01,0.99,10553,30.1
+gade,Denmark,"['North', 'North Academy', 'OpTic']",0.99,0.99,16756,53.6
+SAGGERTON,Finland,"['iGame.com', 'RCTIC', 'LGR']",0.98,0.99,9723,42.6
+rmn,Portugal,"['SAW', 'k1ck', 'Giants']",1,0.99,19488,54.3
+jabbi,Denmark,"['Copenhagen Flames', 'Singularity']",1.01,0.99,13477,59.9
+gla1ve,Denmark,"['Astralis', 'CPH Wolves']",1.01,0.99,28596,46.4
+pesadelo,Brazil,"['TeamOne', 'RED Canids']",0.98,0.99,10344,44.4
+Lukki,Denmark,"['Tricked', 'AGF', 'Singularity']",1,0.99,15622,51.2
+AZR,Australia,"['Renegades', '100 Thieves', 'EXTREMUM']",0.99,0.99,19524,51.5
+Daffu,Denmark,"['ECSTATIC', 'Lyngby Vikings', 'Copenhagen Flames']",1.01,0.99,11909,51.9
+ryotzz,Brazil,['W7M'],0.98,0.99,7922,37.2
+djay,Canada,"['Party Astronauts', 'New England Whalers']",0.99,0.99,14279,48.1
+J1rah,Australia,"['ORDER', 'Breakaway']",1,0.99,13457,46.1
+Jonji,Canada,"['Bad News Bears', 'Rise Nation', 'Chaos']",0.98,0.99,18738,40.8
+Furlan,Poland,['AGO'],0.98,0.99,37359,53
+DAVEY,Canada,"['Splyce', 'Mythic', 'Spacestation']",0.98,0.99,14126,41.3
+WOOD7,Brazil,"['MIBR', 'Bravos', 'RED Canids']",1.04,0.98,9188,30.5
+bodyy,France,"['G2', 'DBL PONEY', 'LDLC']",0.99,0.98,23116,56.2
+stellar,United States,"['Party Astronauts', 'Vireo.pro', 'Divine', 'AA']",1,0.98,7396,45.7
+Xizt,Sweden,"['NIP', 'fnatic']",1.02,0.98,28491,46.8
+RUBINO,Norway,"['Dignitas', 'Nordavind', 'LGB']",0.99,0.98,17632,52.5
+AdreN,Kazakhstan,"['Gambit', 'HellRaisers', 'K23']",0.99,0.98,31357,48.8
+apocdud,Australia,"['VERTEX', 'Chiefs', 'Genuine']",1,0.98,12712,36.9
+bew,United States,"['New England Whalers', 'High Coast', 'Yeah']",0.99,0.98,6854,50.7
+ryann,United States,"['Singularity', 'Swole Patrol', 'Envy', 'Gorilla Gang']",0.98,0.98,12192,55.1
+Zix,Bulgaria,['Bpro'],0.98,0.98,7076,54.4
+NickelBack,Russia,"['Entropiq', 'pro100', 'Winstrike']",1,0.98,23867,39.8
+DeadFox,Hungary,['HellRaisers'],1,0.98,13856,38.4
+isak,Sweden,"['GamerLegion', 'Lilmix']",1,0.98,10279,49.9
+NEKIZ,Brazil,"['paiN', 'Luminosity']",0.99,0.98,16791,48
+Perfecto,Russia,"['Natus Vincere', 'Syman']",1.04,0.98,11255,46.7
+zende,Sweden,"['DenDD', 'Property']",1,0.98,7064,47.7
+bq,Sweden,['Lilmix'],0.97,0.98,7291,53.1
+chop,United States,"['Carpe Diem', 'RBG', 'Kinship']",0.99,0.98,7451,52.6
+raalz,Denmark,"['Sprout', 'Lyngby Vikings', 'Ambush']",0.99,0.98,15684,58.2
+anger,United States,"['Mythic', 'Winterfox', 'Denial', 'Luminosity']",0.98,0.98,12065,50.9
+Spiidi,Germany,"['Sprout', 'MOUZ']",1,0.98,34932,40.4
+Llamas,Australia,"['Ground Zero', 'Breakaway', 'SYF']",1,0.98,7596,49.1
+doto,Finland,"['HAVU', 'ENCE']",0.98,0.98,11512,54.8
+tifa,Brazil,"['Imperial', 'BigGods', 'Keyd']",0.98,0.98,7090,45.7
+sinnopsyy,Kosovo,"['BLINK', 'Secret']",0.96,0.98,11294,57.3
+kwezz,Denmark,['Tricked'],0.99,0.98,10455,55.4
+SHOOWTiME,Brazil,"['Luminosity', 'Imperial', 'Tempo Storm']",0.98,0.98,16940,45.4
+Boombl4,Russia,"['Natus Vincere', 'Winstrike', 'Quantum Bellator Fire']",0.98,0.98,18991,41.6
+BIT,Brazil,"['TeamOne', '9z', 'Não Tem Como']",1.01,0.98,12295,48.2
+wiz,United States,"['Carpe Diem', 'RBG']",1.01,0.98,7991,28.7
+syken,Germany,"['expert', 'EURONICS']",0.97,0.98,7450,57.8
+Radifaction,Norway,"['Secret', 'Nordavind', 'NoChance', 'Apeks']",0.98,0.98,9133,49.9
+jnt,Brazil,['Sharks'],1.01,0.98,10397,35.6
+prt,Brazil,"['TeamOne', 'DETONA']",0.99,0.98,12697,53.3
+niki1,Bulgaria,"['FATE', 'Bpro', 'Outlaws']",0.98,0.98,17850,48.8
+BURNRUOk,Australia,"['Ground Zero', 'Grayhound', 'Immunity']",0.97,0.98,15228,50.7
+Sergiz,Ukraine,"['CR4ZY', 'Project X', 'Akuma', 'Windigo Academy']",1.01,0.98,7819,52.1
+DeStRoYeR,China,"['Invictus', 'EHOME', 'BOOT']",0.98,0.98,10479,42.2
+PERCY,Denmark,"['Secret', 'Sprout', 'Tricked']",0.98,0.98,18369,58.5
+Fadey,South Africa,"['ATK', 'Bravado']",0.96,0.97,11737,55
+blocker,Bulgaria,"['Windigo', 'FATE', 'Bpro']",0.97,0.97,15729,49.3
+RUSH,United States,"['Cloud9', 'Complexity', 'OpTic']",0.99,0.97,24435,47.3
+SPELLAN,Bulgaria,"['SKADE', 'Outlaws', 'Windigo', 'Epsilon']",0.99,0.97,24610,39.6
+RpK,France,"['Vitality', 'Envy', 'Titan', 'G2']",0.98,0.97,26056,50.7
+ZEDKO,Czech Republic,"['SINNERS', 'eXtatus']",0.99,0.97,19114,52.5
+mono,Poland,"['x-kom', 'Illuminar', 'Izako Boars']",1,0.97,11640,44.6
+FinigaN,Russia,['Espada'],1.01,0.97,8523,50.5
+Keoz,Belgium,"['Syman', 'LDLC', 'K23']",0.96,0.97,14589,54.8
+leman,Poland,['AGO'],0.98,0.97,8483,51.4
+jmqa,Russia,"['Quantum Bellator Fire', 'PiTER', 'EPG']",0.98,0.97,16152,51
+Queenix,Denmark,"['MASONIC', 'x6tence', 'Copenhagen Flames', 'Singularity']",0.99,0.97,7553,56.4
+propleh,Russia,"['1WIN', 'Monolith', 'Spartak']",0.99,0.97,6836,49.2
+oskarish,Poland,"['x-kom', 'Illuminar', 'AGO']",0.98,0.97,17879,50.4
+RuStY,Sweden,"['GamerLegion', 'Singularity', 'Red Reserve']",0.98,0.97,22965,53
+Marek,Taiwan,"['EHOME', 'After']",0.98,0.97,6980,52
+seb,United States,"['Ghost', 'New Identity', ""Bee's Money Crew""]",0.98,0.97,10456,45.5
+kUcheR,Russia,"['HellRaisers', 'Virtus.pro']",0.99,0.97,14944,44
+stk,Thailand,"['Beyond', 'Signature', 'Alpha Red']",0.98,0.97,10034,42
+ELUSIVE,South Africa,['Bravado'],1.01,0.97,6410,43.9
+ice,Kazakhstan,"['Unique', '100PG']",0.97,0.97,7708,58.1
+SOKER,Spain,"['Movistar Riders', 'x6tence', 'k1ck']",0.96,0.97,11465,42.5
+DEVIL,France,"['LDLC', 'Envy', 'LDLC White', '3DMAX']",0.97,0.97,11006,48.2
+seized,Russia,['Natus Vincere'],0.98,0.97,26348,45.8
+MAIROLLS,Thailand,"['Alpha Red', 'Beyond', 'NSPR']",0.98,0.97,8516,49.1
+Drea3er,China,"['New4', 'FIVE', 'BTRG']",0.96,0.97,6976,53.9
+PKL,Brazil,"['paiN', 'Luminosity', 'Wild']",0.98,0.97,19174,51.9
+gabesson,Hungary,"['GameAgents', 'volgare']",0.97,0.97,7943,42.1
+Sapec,Sweden,['Young Ninjas'],0.96,0.97,7729,52.7
+Mayker,Australia,"['Genuine', 'Chiefs', 'Surge']",0.97,0.97,7380,49.1
+TMB,Denmark,"['MAD Lions', 'AGF', 'Copenhagen Flames']",0.97,0.97,12110,47.3
+The eLiVe,Slovakia,"['Enterprise', 'Universe']",0.98,0.97,8251,52.2
+KHRN,Finland,"['SJ', 'HAVU']",0.98,0.97,15822,48
+chopper,Russia,"['Spirit', 'Vega Squadron']",0.98,0.97,18598,57.4
+Leaf,Thailand,"['Lucid Dream', 'Maple', 'Signature']",0.99,0.97,6618,44.2
+starix,Ukraine,"['Natus Vincere', 'Spirit']",0.98,0.97,10761,47.6
+reltuC,United States,['CLG'],1,0.97,14788,40.5
+Surreal,United Kingdom,"['Endpoint', 'Epsilon', 'Complexity']",0.97,0.97,25891,43.6
+Hyper,Poland,"['AGG', 'Vexed', 'Kinguin', 'Izako Boars']",0.99,0.96,11144,41.8
+phr,Poland,"['Illuminar', 'AGO', 'Virtus.pro']",0.98,0.96,22492,53.4
+LUCAS1,Brazil,"['Immortals', 'Luminosity', 'MIBR', 'Tempo Storm']",0.97,0.96,16073,47
+Maniac,Switzerland,"['LDLC', 'Titan']",0.97,0.96,14478,39.4
+nafany,Russia,"['Gambit Youngsters', 'Gambit']",0.96,0.96,14964,51.1
+SmithZz,France,"['G2', 'Titan', 'VeryGames', 'Envy', 'LDLC']",0.97,0.96,19726,41.4
+0i,China,"['New4', 'FIVE', 'Invictus', 'After']",0.96,0.96,8436,55.9
+kaper,Poland,"['AGO', 'Kinguin', 'Wisla Krakow', 'adwokacik']",0.98,0.96,9154,44.2
+Aleksib,Finland,"['OG', 'ENCE', 'HAVU']",0.98,0.96,16976,39.2
+SEMINTE,Romania,"['Nexus', 'XPC']",0.96,0.96,11430,49.2
+SADDYX,Finland,['SJ'],0.97,0.96,11404,47.6
+maeVe,Denmark,"['Tricked', 'Escape', 'Reason']",0.98,0.96,8154,40.5
+stanislaw,Canada,"['Evil Geniuses', 'OpTic', 'Complexity', 'Liquid']",0.98,0.96,21727,47.5
+Kairi,Spain,"['x6tence', 'PENTA']",0.97,0.96,6763,37.7
+Tommy,Singapore,['BOOT-d[S]'],0.95,0.96,6700,46
+HOLMES,Serbia,"['Squared', 'BLUEJAYS']",0.96,0.96,7579,44.9
+ProbLeM,Russia,"['HellRaisers', 'bankaPEPSI']",0.97,0.96,9637,48.9
+w1nt3r,Kazakhstan,"['Unique', '100PG', 'Se7en', 'BOOT-d[S]']",0.98,0.96,9468,49.5
+bodito,Hungary,"['Budapest Five', 'Salamander', 'Pixel', 'Sensei']",0.95,0.96,7726,46.6
+xms,France,"['Envy', 'Heretics', 'LDLC']",0.95,0.96,12206,59
+tiziaN,Germany,"['BIG', 'ALTERNATE aTTaX']",0.97,0.96,29167,56.1
+Uber,Canada,"['Enemy', 'Complexity', 'Selfless']",0.96,0.96,6674,50.2
+JazzPimp,United States,"['Gaimin Gladiators', 'Recon 5', 'ChocoCheck']",0.96,0.96,6989,54.3
+nbl,Argentina,['Isurus'],0.96,0.96,10007,51.4
+Walco,Canada,"['Carpe Diem', 'RBG']",0.95,0.96,8164,57.6
+Snappi,Denmark,"['ENCE', 'Heroic', 'OpTic']",0.97,0.96,26614,45.6
+glow,Korea,['MVP PK'],0.98,0.96,6438,51.9
+Kvik,Lithuania,"['Quantum Bellator Fire', 'Winstrike']",0.95,0.96,13682,42.7
+Kristou,Denmark,"['AGF', 'North']",0.95,0.96,6701,43.7
+expro,China,"['Lynn Vision', 'Invictus', 'EHOME']",0.96,0.96,7454,44.7
+misutaaa,France,['Vitality'],0.95,0.96,6868,54.5
+MAJ3R,Turkey,"['Space Soldiers', 'Sangal']",0.97,0.96,17858,48.8
+LOGAN,France,"['LDLC', 'Heretics']",0.97,0.96,10091,55.2
+RZU,United States,"['Triumph', 'Bad News Bears', 'Rugratz']",0.94,0.96,7820,53.7
+nosraC,United States,"['Gaimin Gladiators', 'Rebirth', 'ChocoCheck', 'Recon 5']",0.95,0.96,7686,50.3
+smF,Denmark,"['CPH Wolves', 'Secret', 'LPSP']",0.97,0.96,13649,56.2
+YJ,Brazil,['W7M'],0.99,0.96,8424,41.6
+kinqie,Russia,"['DreamEaters', 'Hard Legion']",0.95,0.96,11130,57.1
+NEO,Poland,"['HONORIS', 'Virtus.pro']",0.96,0.96,34327,37.8
+tahsiN,Germany,"['Berzerk', 'PENTA', 'KILLERFISH']",0.94,0.96,10261,44.7
+ponczek,Poland,['Wisla Krakow'],0.97,0.95,8543,44.5
+denis,Germany,"['Sprout', 'MOUZ']",0.95,0.95,32721,44.3
+maNkz,Denmark,"['ECSTATIC', 'Lyngby Vikings', 'Copenhagen Flames', 'x6tence']",0.96,0.95,11163,52.3
+alexRr,Germany,"['expert', 'Planetkey', 'DIVIZON']",0.93,0.95,7438,39.8
+dezon,Sweden,"['Savage', 'Galaxy Racer', 'Japaleno']",0.97,0.95,9192,52.4
+dumz,Sweden,"['DenDD', 'Singularity', 'Manatee']",0.96,0.95,7889,48.4
+JT,South Africa,"['Extra Salt', 'Bravado', 'ATK', 'Cloud9']",0.96,0.95,17282,48.4
+friberg,Sweden,"['Dignitas', 'NIP', 'Heroic']",0.95,0.95,33114,47.3
+caike,Brazil,"['g3x', 'Yeah', 'Isurus', 'TeamOne']",0.96,0.95,8518,42.6
+H4RR3,Norway,"['777', 'Nordavind']",0.94,0.95,11382,50.6
+TaZ,Poland,"['HONORIS', 'Virtus.pro', 'Kinguin']",0.96,0.95,36859,51.3
+steel,Brazil,"['Movistar Riders', 'Luminosity', 'Immortals']",0.97,0.95,24382,40.8
+devoduvek,France,"['LDLC', 'Misfits', 'Heretics']",0.95,0.95,11149,49.6
+dERZKIY,Belarus,"['K29', 'ANOX']",0.95,0.95,7059,53.8
+Console,Denmark,"['Tricked', 'ALTERNATE aTTaX', 'Copenhagen Flames', 'Singularity']",0.95,0.95,11948,39.5
+CONNOR93,Canada,"['Ghost', ""Bee's Money Crew"", 'BlackOut', 'The Pioneers']",0.94,0.95,7738,51.7
+soju_j,New Zealand,"['Legacy', 'AVANT', 'Chiefs', 'Dire Wolves']",0.96,0.95,9148,41.2
+darko,Poland,['PACT'],0.95,0.95,14187,44.9
+PR1mE,Denmark,['Tricked'],0.95,0.95,6980,54.9
+KrizzeN,Kazakhstan,"['AVANGAR', 'Winstrike']",0.97,0.95,12720,54.9
+beastik,Czech Republic,['SINNERS'],0.95,0.95,11329,55.3
+Grusarn,Norway,"['777', 'Apeks']",0.93,0.95,9794,63.9
+RAiLWAY,Russia,"['INDE IRAE', 'Espada']",0.93,0.95,8041,54.5
+AcilioN,Denmark,"['Apeks', 'Copenhagen Flames', 'SK']",0.95,0.95,29475,43.9
+flashie,Hungary,"['GameAgents', 'Orgless']",0.95,0.95,10033,41.9
+strux1,Germany,"['PENTA', '3DMAX', 'Planetkey']",0.96,0.95,6648,36.3
+ecfN,Germany,['ALTERNATE aTTaX'],0.94,0.95,7387,53.8
+oxygeN,Bulgaria,['SKADE'],0.95,0.95,8532,59.3
+Karsa,China,"['Flash', 'OneThree', 'EHOME']",0.96,0.95,7360,48.7
+arvid,Finland,['SJ'],0.94,0.95,15577,44.8
+Inzta,Denmark,"['Tricked', 'Singularity']",0.94,0.94,12779,43.9
+Rock1nG,Bulgaria,"['SKADE', 'Outlaws', 'Bpro']",0.94,0.94,15257,55.3
+uNdo,Belarus,"['Unique', 'Quantum Bellator Fire', 'Space Jam']",0.95,0.94,7217,54.3
+vSa,Canada,"['Rise Nation', 'Vision', 'Ghost']",0.95,0.94,6351,42.5
+Fifflaren,Sweden,['NIP'],0.99,0.94,7894,37.5
+boX,Belarus,"['Nemiga', 'GoodJob']",0.94,0.94,21451,43.7
+kzy,Germany,"['EURONICS', 'ALTERNATE aTTaX', 'Unicorns of Love']",0.95,0.94,16400,47.6
+TOAO,Poland,"['AGO', 'Izako Boars']",0.95,0.94,18679,48
+SileNt,United States,"['Swole Patrol', 'Method', 'NRG']",0.93,0.94,10751,36.1
+Twixie,Finland,"['KOVA', 'HAVU']",0.95,0.94,12849,48.1
+tonyblack,Russia,['Spirit'],0.95,0.94,13828,48.6
+BRACE,Australia,['VERTEX'],0.94,0.94,6566,47.9
+rafftu,Bulgaria,"['SKADE', 'Bpro', 'FATE']",0.94,0.94,8502,51.9
+arch,Ukraine,"['Preparation', 'Spirit', 'Worst Players']",0.94,0.94,10295,49
+Sidney,Poland,"['UNGENTIUM', 'AGO', 'PACT', 'Illuminar']",0.95,0.94,7423,50.1
+interz,Russia,"['Gambit Youngsters', 'Gambit']",0.99,0.94,12718,50.1
+EXUS,Poland,"['PRIDE', 'Izako Boars']",0.93,0.94,15251,42.7
+RIZZZ,Portugal,"['OFFSET', 'Giants']",0.93,0.94,7027,52
+LOMME,Denmark,"['North Academy', 'Tricked', 'No Problem!']",0.95,0.94,10221,42.5
+Polly,Norway,"['LGB', 'London Conspiracy', 'Apeks']",0.93,0.94,7542,41.2
+Ex6TenZ,Belgium,"['Titan', 'LDLC', 'VeryGames', 'G2']",0.96,0.94,22665,41.5
+ub1que,Russia,"['EPG', 'PiTER', 'Preparation']",0.94,0.94,8319,41.8
+Noisia,Australia,"['AVANT', 'Breakaway', 'Dark Sided']",0.94,0.94,9682,43.7
+tutehen,Argentina,"['VELOX', 'Isurus', 'Gale Force', 'Miami Flamingos']",0.95,0.94,7331,46.1
+ngiN,Turkey,"['Space Soldiers', 'Sangal']",0.96,0.94,16499,45.3
+forget,China,"['5POWER', 'UYA']",0.91,0.94,7723,50.3
+Shakezullah,United States,"['Bad News Bears', 'Triumph', 'Singularity', 'iNTACT']",0.96,0.94,12694,42.7
+repo,Poland,"['PRIDE', 'ESC', 'AGG', 'Vexed']",0.93,0.94,8647,46.6
+neaLaN,Kazakhstan,"['K23', 'Syman']",0.93,0.93,18064,55.9
+DANZ,Australia,"['Kanga', 'Corvidae', 'AVANT']",0.92,0.93,6730,42.6
+emi,Serbia,"['Valiance', 'Binary Dragons', 'iNation']",0.94,0.93,17763,52.2
+Duplicate,Bulgaria,"['SKADE', 'FATE']",0.93,0.93,13549,51.5
+hutji,Russia,['Vega Squadron'],0.92,0.93,7719,48.4
+crisby,Germany,"['ALTERNATE aTTaX', 'EURONICS', 'Unicorns of Love']",0.92,0.93,20610,54.4
+matty,Poland,"['EC Brugge', 'Izako Boars']",0.93,0.93,9201,40.6
+mynio,Poland,"['Wisla Krakow', 'Anonymo']",0.91,0.93,13302,44.5
+SkulL,Australia,"['Genuine', 'Taboo', 'Masterminds', 'Chiefs']",0.91,0.93,10266,42.5
+quix,Sweden,"['Lilmix', 'Vexed', 'Publiclir.se']",0.9,0.93,16451,47.2
+ztr,Sweden,"['Young Ninjas', 'NIP']",0.92,0.93,6534,51.1
+kiR,Denmark,['Tricked'],0.91,0.93,9650,61.5
+TACO,Brazil,"['GODSENT', 'SK', 'MIBR', 'Liquid', 'Luminosity']",0.94,0.93,21773,50.2
+aVN,Serbia,"['4glory', 'lvlUP', 'BLUEJAYS', 'Juggernauts']",0.93,0.92,9305,52.9
+S0tF1k,Russia,"['Spirit', 'Espada']",0.92,0.92,21364,49.2
+hitMouse,Belarus,"['Nemiga', 'K29']",0.93,0.92,8785,49
+arki,Spain,['SAW'],0.92,0.92,14064,52.5
+Xp3,France,"['Winterfox', 'Denial', 'ELEVATE']",0.91,0.92,8326,39.7
+sorrow,Kazakhstan,"['Unique', '100PG']",0.91,0.92,6548,55.3
+pNshr,Bulgaria,"['Windigo', 'ex-Outlaws']",0.92,0.92,9802,43.2
+MSL,Denmark,"['Dignitas', 'North']",0.9,0.92,28913,39.9
+SANJI,Uzbekistan,"['Virtus.pro', 'AVANGAR', 'Syman']",0.92,0.92,12151,62.2
+akez,Norway,"['777', 'Apeks']",0.9,0.92,8076,55.2
+ncl,Mongolia,"['TheMongolz', 'TIGER', 'Mazaalai']",0.93,0.92,8238,49.1
+Luz,Poland,"['PRIDE', 'Izako Boars']",0.92,0.92,10767,48.2
+Zeus,Ukraine,['Natus Vincere'],0.92,0.92,23470,43.5
+nak,Brazil,"['Sharks', 'RED Canids']",0.92,0.92,8158,44.5
+arya,United States,"['Splyce', '3sUP']",0.89,0.92,7277,34.9
+Dav,Serbia,"['Squared', 'ONYX']",0.9,0.92,7107,41.6
+karrigan,Denmark,"['FaZe', 'MOUZ', 'TSM']",0.9,0.91,32278,42.9
+pietola,Finland,['KOVA'],0.91,0.91,6256,47.1
+svyat,Russia,"['Hard Legion', 'DreamEaters', 'AVE']",0.92,0.91,11975,51.9
+BTN,Romania,['Nexus'],0.9,0.91,17639,53.9
+xartE,Finland,"['SJ', 'HAVU', 'ENCE', 'hREDS']",0.92,0.91,18341,37.1
+tecek,Poland,"['Izako Boars', 'x-kom', 'VenatoreS']",0.88,0.91,6383,38.1
+LEGIJA,Germany,"['BIG', 'MOUZ', 'NRG']",0.9,0.91,14245,49.8
+roman,Belarus,"['Nemiga', 'K29']",0.91,0.91,6787,55
+Shara,Ukraine,"[""spray'n'pray"", 'FlipSid3']",0.9,0.91,6329,51.8
+wayLander,Russia,"['FlipSid3', 'pro100', 'Winstrike']",0.89,0.91,13258,51.8
+BONA,Finland,"['SJ', 'VITALIS', 'hREDS']",0.89,0.91,7931,52.1
+sAw,Finland,"['HAVU', 'iGame.com', 'RCTIC']",0.91,0.9,20522,47.9
+kRYSTAL,Germany,"['PENTA', 'ALTERNATE aTTaX', 'GODSENT']",0.9,0.9,29419,36.7
+MiGHTYMAX,United Kingdom,['Endpoint'],0.9,0.9,18176,49.2
+ben1337,United States,"['Party Astronauts', 'New England Whalers', 'High Coast']",0.89,0.9,14572,46.7
+crush,Ukraine,"['pro100', 'Vega Squadron', 'HellRaisers']",0.89,0.9,11789,52.5
+balblna,Russia,"['Quantum Bellator Fire', 'Winstrike']",0.89,0.9,9791,49.8
+sycrone,Denmark,"['Sprout', 'North Academy', 'Tricked', 'Team123']",0.9,0.9,8771,41.1
+nkl,Bulgaria,"['E-frag.net', 'GPlay', 'MK', 'Orbit']",0.91,0.9,9990,42.9
+hooch,Russia,"['EPG', 'Gambit']",0.89,0.9,14410,41.8
+Golden,Sweden,"['fnatic', 'fnatic Academy', 'Cloud9']",0.88,0.9,14225,53.5
+lunAtic,Poland,['PACT'],0.9,0.9,14608,38.8
+Adam9130,United Kingdom,"['Into the Breach', 'GamerLegion', 'Vexed']",0.87,0.9,7370,40.1
+FNS,Canada,"['CLG', 'TSM']",0.89,0.89,15287,45.9
+spiker,Russia,"['Monolith', 'PiTER', 'Empire', 'Rebels']",0.88,0.89,6837,42.7
+JiNKZ,France,"['3DMAX', 'Heretics']",0.88,0.89,8657,53.5
+MAiNLiNE,United States,"['Enemy', 'Selfless', 'eUnited', 'Method']",0.87,0.89,6904,51.7
+Psycho,Ukraine,"['Run or Die', 'Project X', 'CR4ZY', 'Akuma', 'Windigo Academy']",0.88,0.89,8093,52.2
+pronax,Sweden,"['fnatic', 'GODSENT']",0.89,0.89,18722,45.8
+Polen,United States,['Mythic'],0.88,0.89,7017,53.3
+ScrunK,Germany,"['ALTERNATE aTTaX', 'expert', 'EURONICS']",0.86,0.88,14695,46.5
+Lambert,France,"['LDLC', 'EnVyUs Academy']",0.88,0.88,11962,37.1
+LeX,United States,"['Mythic', 'Winterfox', 'Luminosity']",0.85,0.88,7418,44.7
+torben,Denmark,['Fragsters'],0.87,0.88,8176,49.5
+JD,Australia,"['madlikewizards', 'Athletico', 'TRUCKERS WITH ATTITUDE', 'Airborne', 'Noxide']",0.85,0.88,6071,47
+seang@res,United States,"['Cloud9', 'Misfits', 'Echo Fox']",0.87,0.88,10904,40.2
+daps,Canada,"['NRG', 'OpTic', 'Gen.G']",0.87,0.88,16274,40.2
+advent,China,"['ViCi', 'VG.CyberZen']",0.88,0.88,15322,49.9
+flowsicK,United States,"['Denial', 'Winterfox', 'Liquid']",0.86,0.87,6257,47.4
+birdfromsky,Denmark,"['ECSTATIC', 'Lyngby Vikings']",0.86,0.87,12296,41.8
+BERRY,Denmark,"['Ambush', 'OPAA']",0.85,0.87,12969,38
+nawrot,Poland,"['AVEZ', 'Izako Boars']",0.85,0.87,9764,47.1
+HooXi,Denmark,['Copenhagen Flames'],0.85,0.87,12188,49.7
+def,Ukraine,"['pro100', 'ACG']",0.85,0.86,9243,41.8
+djL,Sweden,"['Chaos', 'Japaleno', 'Red Reserve']",0.86,0.86,10263,47.3
+Devilwalk,Sweden,"['fnatic', 'Epsilon']",0.85,0.86,6122,51.3
+Twista,Finland,"['RCTIC', 'iGame.com', 'LGR']",0.84,0.85,5863,35.9
+gob b,Germany,"['BIG', 'MOUZ', 'NRG']",0.84,0.85,14445,48.5
+Slemmy,United States,"['Complexity', 'Cloud9', 'Selfless']",0.83,0.85,6638,49.6
+SolEk,Switzerland,"['ALTERNATE aTTaX', 'Berzerk']",0.81,0.84,5586,49.5
+PASHANOJ,Russia,"['Unique', 'ex-ETHEREAL']",0.8,0.84,9147,53.5
+B1ad3,Ukraine,['FlipSid3'],0.8,0.83,13472,41.9
+netrick,Denmark,"['AGF', 'unknown', 'LPSP', 'Forcebuy']",0.8,0.82,6753,48.2
+HUNDEN,Denmark,"['Tricked', 'ALTERNATE aTTaX']",0.78,0.81,22470,48.7
+RuFire,Russia,"['SG.pro', '5balls', 'VP.Prodigy']",0.74,0.78,5579,47.9
+OCEAN,Canada,"['subtLe', 'SKDC', 'Splyce']",0.74,0.77,5530,44.3
