@@ -2,9 +2,21 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>{{ title if title else "CS Stats" }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-
+    <nav>
+        <a href="{{ url_for('render_home_page') }}">Home</a>
+        <form action="{{ url_for('render_search_page') }}" method="POST">
+            <label>
+                <input type="text" name="Search" placeholder="Search players...">
+            </label>
+            <button type="submit">Search</button>
+        </form>
+    </nav>
+    <div class="content">
+        {% block content %}{% endblock %}
+    </div>
 </body>
 </html>

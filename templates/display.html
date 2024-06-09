@@ -1,31 +1,35 @@
 {% extends "base.html" %}
-{% block main %}
-    {% if search_term %}
-        <h2>Search Results for: {{ search_term }}</h2>
-    {% else %}
-        <h2>{{ table_type }}</h2>
-    {% endif %}
 
+{% block content %}
+<h1>Player Stats - {{ table_type if table_type else search_term }}</h1>
+{% if no_results %}
+    <p>No results found.</p>
+{% else %}
     <table>
         <thead>
             <tr>
-                <td>Tag</td>
-                <td>Description</td>
+                <th>Rating</th>
+                <th>Headshot %</th>
+                <th>KD Ratio</th>
+                <th>Teams Played In</th>
+                <th>Country of Origin</th>
+                <th>In-Game Name</th>
+                <th>Total Kills</th>
             </tr>
         </thead>
         <tbody>
-        {% if data %}
             {% for row in data %}
-                <tr>
-                    <td>{{ row[0] }}</td>
-                    <td>{{ row[1] }}</td>
-                </tr>
-            {% endfor %}
-        {% else %}
             <tr>
-                <td colspan="2">No results found</td>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[1] }}</td>
+                <td>{{ row[2] }}</td>
+                <td>{{ row[3] }}</td>
+                <td>{{ row[4] }}</td>
+                <td>{{ row[5] }}</td>
+                <td>{{ row[6] }}</td>
             </tr>
-        {% endif %}
+            {% endfor %}
         </tbody>
     </table>
+{% endif %}
 {% endblock %}

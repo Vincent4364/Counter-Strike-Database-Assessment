@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Welcome to CS Stats</h1>
+<p>Select a table type to display player stats:</p>
+<ul>
+    <li><a href="{{ url_for('render_webpages_page', table_type='type1') }}">Type 1</a></li>
+    <li><a href="{{ url_for('render_webpages_page', table_type='type2') }}">Type 2</a></li>
+</ul>
+{% endblock %}
