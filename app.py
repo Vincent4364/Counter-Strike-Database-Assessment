@@ -20,20 +20,20 @@ def render_home_page():
     return render_template('index.html')
 
 
-@app.route('/display/<table_type>')
-def render_webpages_page(table_type):
+@app.route('/display')
+def render_webpages_page():
     query = """
     SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
     FROM player_stats
-    WHERE type = ?
     """
     connection = create_connection(DATABASE)
     cursor = connection.cursor()
-    cursor.execute(query, (table_type,))
+    cursor.execute(query)
     data_list = cursor.fetchall()
     connection.close()
 
-    return render_template('display.html', data=data_list, table_type=table_type)
+    return render_template('display.html', data=data_list)
+
 
 @app.route('/search', methods=['GET', 'POST'])
 def render_search_page():

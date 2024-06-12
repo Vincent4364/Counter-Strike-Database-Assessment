@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
 html {
-    background-color: #333333;
+    background-color: #1b1b1b; /* Darker background */
 }
 
 body {
-    background-color: #000000;
-    color: #ffffff;
-    font-family: 'Ubuntu', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+    background-color: #0c0c0c; /* Black background */
+    color: #dcdcdc; /* Light gray text */
+    font-family: 'Russo One', sans-serif; /* Military-style font */
     width: 75%;
     margin: auto;
     display: grid;
@@ -13,69 +15,81 @@ body {
 }
 
 header, footer {
-    background-color: #222222;
-    padding: 10px;
+    background-color: #2a2a2a; /* Dark gray background */
+    padding: 15px;
     margin: 0;
     grid-column: 1/3;
     font-weight: bolder;
+    text-transform: uppercase; /* Uppercase for a strong look */
+    border-bottom: 2px solid #444; /* Border for a tactical look */
 }
 
 nav {
-    background-color: #444444;
+    background-color: #3b3b3b; /* Slightly lighter gray */
     margin: 0;
-    padding: 3px;
+    padding: 10px; /* More padding for better click area */
+    border-right: 2px solid #444; /* Border for separation */
 }
 
 nav ul {
     list-style-type: none;
+    padding: 0;
 }
- nav ul li {
-    padding: 3px;
- }
+nav ul li {
+    padding: 5px;
+    border-bottom: 1px solid #444; /* Border between items */
+}
 
- a {
-     color: #dddddd;
-     text-decoration: none;
-     font-weight: bold;
- }
+a {
+    color: #e0e0e0; /* Light gray for links */
+    text-decoration: none;
+    font-weight: bold;
+}
 
- a:hover {
-     color: #ff0000;
- }
+a:hover {
+    color: #ff9900; /* Bright orange for hover effect */
+}
 
- main {
-     padding: 5px;
- }
+main {
+    padding: 10px;
+}
 
- table {
-     border: 2px solid #ffffff;
-     width: 100%;
-     border-collapse: collapse;
- }
+table {
+    border: 2px solid #444; /* Darker border */
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #1a1a1a; /* Dark background */
+}
 
- th, td {
+th, td {
+    border: 1px solid #555; /* Border color */
+    padding: 10px; /* More padding */
+}
 
-     border: 1px solid #ffffff;
-     padding: 5px;
- }
-
- th {
-     color: #000000;
-     background-color: #999999;
- }
+th {
+    color: #ffffff;
+    background-color: #333333; /* Darker header */
+    text-transform: uppercase; /* Uppercase text */
+}
 
 input[type=text] {
-  padding: 0;
-  height: 20px;
-  position: relative;
-  left: 0;
-  outline: none;
-    border: 1px solid rgba(0, 0, 0, .15);
-    background-color: white;
-  font-size: 16px;
+    padding: 5px; /* More padding */
+    height: 30px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #555;
+    background-color: #1a1a1a;
+    color: #e0e0e0; /* Light text color */
+    font-size: 16px;
 }
 
 .advancedSearchTextbox {
     width: 526px;
     margin-right: -4px;
+    background-color: #0c0c0c; /* Same as body */
+    border: 1px solid #444; /* Darker border */
+    color: #ffffff; /* White text */
 }
+
+
