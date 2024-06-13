@@ -21,7 +21,22 @@ def render_home_page():
 
 
 @app.route('/display')
-def render_webpages_page():
+def render_index_page():
+    query = """
+    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
+    FROM player_stats
+    """
+    connection = create_connection(DATABASE)
+    cursor = connection.cursor()
+    cursor.execute(query)
+    data_list = cursor.fetchall()
+    connection.close()
+
+    return render_template('display.html', data=data_list)
+
+
+@app.route('/display')
+def render_leaderboard_page():
     query = """
     SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
     FROM player_stats

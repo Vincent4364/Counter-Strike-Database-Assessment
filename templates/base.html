@@ -8,6 +8,7 @@
 <body>
     <nav>
         <a href="{{ url_for('render_home_page') }}">Home</a>
+        <a href="{{ url_for('render_leaderboard_page') }}">Leaderboard</a>
         <form action="{{ url_for('render_search_page') }}" method="POST">
             <label>
                 <input type="text" name="Search" placeholder="Search players...">

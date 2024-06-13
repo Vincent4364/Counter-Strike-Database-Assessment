@@ -2,9 +2,9 @@
 
 {% block content %}
 <h1>Welcome to CS Stats</h1>
-<p>Select whether you would prefer the data to be displayed horizontally or vertically:</p>
+<p>CS Stats allows you to dynamically view the stats of 500 professional Counter-Strike players</p>
+<p>In case your unaware of the professional Counter-Strike scene, here's a video by the creator Esports Talk to explain</p>
 <ul>
-    <li><a href="{{ url_for('render_webpages_page', table_type='type1') }}">Horizontal</a></li>
-    <li><a href="{{ url_for('render_webpages_page', table_type='type2') }}">Vertical</a></li>
+   <li><iframe width="700" height="500" src="https://www.youtube.com/embed/bMv02RJzCmw" allowfullscreen></iframe></li>
 </ul>
 {% endblock %}

@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>Player Stats - {{ table_type if table_type else search_term }}</h1>
+<h1>Player Stats - {{ search_term }}</h1>
 {% if no_results %}
     <p>No results found.</p>
 {% else %}

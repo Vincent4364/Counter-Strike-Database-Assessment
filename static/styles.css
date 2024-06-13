@@ -92,4 +92,11 @@ input[type=text] {
     color: #ffffff; /* White text */
 }
 
+iframe {
+  display: flex;
+  width: 560px; /* match the iframe width */
+  height: 315px; /* match the iframe height */
+  align-items: center;
+}
+
 
