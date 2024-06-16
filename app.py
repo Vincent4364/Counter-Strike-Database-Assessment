@@ -21,7 +21,7 @@ def render_home_page():
 
 
 @app.route('/display')
-def render_index_page():
+def render_leaderboard_page():
     query = """
     SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
     FROM player_stats
@@ -36,7 +36,7 @@ def render_index_page():
 
 
 @app.route('/display')
-def render_leaderboard_page():
+def render_major_league_page():
     query = """
     SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
     FROM player_stats

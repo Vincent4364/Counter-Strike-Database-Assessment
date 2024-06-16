@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
+
 <h1>Player Stats - {{ search_term }}</h1>
 {% if no_results %}
     <p>No results found.</p>
@@ -8,24 +9,24 @@
     <table>
         <thead>
             <tr>
-                <th>Rating</th>
-                <th>Headshot %</th>
-                <th>KD Ratio</th>
+                <th>Nickname</th>
                 <th>Teams Played In</th>
                 <th>Country of Origin</th>
-                <th>In-Game Name</th>
+                <th>Pro Rating</th>
+                <th>KD Ratio</th>
+                <th>Headshot %</th>
                 <th>Total Kills</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody id="playerStatsTable">
             {% for row in data %}
             <tr>
-                <td>{{ row[0] }}</td>
-                <td>{{ row[1] }}</td>
-                <td>{{ row[2] }}</td>
+                <td>{{ row[5] }}</td>
                 <td>{{ row[3] }}</td>
                 <td>{{ row[4] }}</td>
-                <td>{{ row[5] }}</td>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[2] }}</td>
+                <td>{{ row[1] }}</td>
                 <td>{{ row[6] }}</td>
             </tr>
             {% endfor %}
@@ -33,3 +34,5 @@
     </table>
 {% endif %}
 {% endblock %}
+
+`
