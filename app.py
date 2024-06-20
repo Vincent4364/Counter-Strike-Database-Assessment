@@ -21,7 +21,7 @@ def render_home_page():
 
 
 @app.route('/display')
-def render_leaderboard_page():
+def render_display_page():
     query = """
     SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
     FROM player_stats
@@ -35,11 +35,13 @@ def render_leaderboard_page():
     return render_template('display.html', data=data_list)
 
 
-@app.route('/display')
-def render_major_league_page():
+@app.route('/top_players')
+def render_top_players_by_rating_page():
     query = """
     SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
     FROM player_stats
+    WHERE rating > 1
+    LIMIT 10
     """
     connection = create_connection(DATABASE)
     cursor = connection.cursor()
@@ -47,7 +49,57 @@ def render_major_league_page():
     data_list = cursor.fetchall()
     connection.close()
 
-    return render_template('display.html', data=data_list)
+    return render_template('top_players.html', data=data_list)
+
+
+@app.route('/top_players')
+def render_top_players_by_kd_page():
+    query = """
+    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
+    FROM player_stats
+    WHERE kd_ratio > 1
+    LIMIT 10
+    """
+    connection = create_connection(DATABASE)
+    cursor = connection.cursor()
+    cursor.execute(query)
+    data_list = cursor.fetchall()
+    connection.close()
+
+    return render_template('top_players.html', data=data_list)
+
+
+@app.route('/top_players/<page>')
+def render_top_players_by_total_kills_page(page):
+    query = """
+    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
+    FROM player_stats
+    WHERE total_kills > 1
+    LIMIT 10
+    """
+    connection = create_connection(DATABASE)
+    cursor = connection.cursor()
+    cursor.execute(query, (page, ))
+    data_list = cursor.fetchall()
+    connection.close()
+
+    return render_template('top_players.html', data=data_list)
+
+
+def render_top_players_by_headshot_percentage_page():
+    query = """
+    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
+    FROM player_stats
+    WHERE headshot_percentage > 1
+    LIMIT 10
+    """
+    connection = create_connection(DATABASE)
+    cursor = connection.cursor()
+    cursor.execute(query)
+    data_list = cursor.fetchall()
+    connection.close()
+
+    return render_template('top_players.html', data=data_list)
 
 
 @app.route('/search', methods=['GET', 'POST'])
@@ -57,7 +109,6 @@ def render_search_page():
         search_term = look_up
         title = "Search for: '" + look_up + "'"
         look_up = "%" + look_up + "%"
-
         query = """
         SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
         FROM player_stats

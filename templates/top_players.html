@@ -2,11 +2,9 @@
 
 {% block content %}
 
-<h1>Player Stats - {{ search_term }}</h1>
+<h1>Top Players</h1>
 
-{% if no_results %}
-    <p>No results found.</p>
-{% else %}
+{% if data %}
     <div>
         <table>
             <thead>
@@ -20,20 +18,23 @@
                     <th>Total Kills</th>
                 </tr>
             </thead>
-            <tbody id="playerStatsTable">
+            <tbody id="TopPlayerStatsTable">
                 {% for row in data %}
                 <tr>
-                    <td>{{ row[5] }}</td>
-                    <td>{{ row[3] }}</td>
-                    <td>{{ row[4] }}</td>
-                    <td>{{ row[0] }}</td>
-                    <td>{{ row[2] }}</td>
-                    <td>{{ row[1] }}</td>
-                    <td>{{ row[6] }}</td>
+                    <td>{{ row[5] }}</td>  {# Assuming row[5] corresponds to player_name #}
+                    <td>{{ row[3] }}</td>  {# teams_played_in #}
+                    <td>{{ row[4] }}</td>  {# country #}
+                    <td>{{ row[0] }}</td>  {# rating #}
+                    <td>{{ row[2] }}</td>  {# kd_ratio #}
+                    <td>{{ row[1] }}</td>  {# headshot_percentage #}
+                    <td>{{ row[6] }}</td>  {# total_kills #}
                 </tr>
                 {% endfor %}
             </tbody>
         </table>
     </div>
+{% else %}
+    <p>No results found.</p>
 {% endif %}
+
 {% endblock %}
