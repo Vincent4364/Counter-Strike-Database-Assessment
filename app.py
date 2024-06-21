@@ -49,8 +49,10 @@ def render_top_players_by_rating_page(rating):
     cursor.execute(query, (rating, ))
     data_list = cursor.fetchall()
     connection.close()
+    column_header = 'Rating'
 
-    return render_template('top_players.html', data=data_list)
+    return render_template('top_players.html', data=data_list, column_header=column_header)
+
 
 @app.route('/top_players/kd/<kd>')
 def render_top_players_by_kd_page(kd):
@@ -66,8 +68,10 @@ def render_top_players_by_kd_page(kd):
     cursor.execute(query, (kd,))
     data_list = cursor.fetchall()
     connection.close()
+    column_header = 'KD Ratio'
 
-    return render_template('top_players.html', data=data_list)
+    return render_template('top_players.html', data=data_list, column_header=column_header)
+
 
 @app.route('/top_players/total_kills/<total_kills>')
 def render_top_players_by_total_kills_page(total_kills):
@@ -83,8 +87,9 @@ def render_top_players_by_total_kills_page(total_kills):
     cursor.execute(query, (total_kills, ))
     data_list = cursor.fetchall()
     connection.close()
+    column_header = 'Total Kills'
 
-    return render_template('top_players.html', data=data_list)
+    return render_template('top_players.html', data=data_list, column_header=column_header)
 
 
 @app.route('/top_players/headshot/<headshot>')
@@ -101,8 +106,9 @@ def render_top_players_by_headshot_percentage_page(headshot):
     cursor.execute(query, (headshot, ))
     data_list = cursor.fetchall()
     connection.close()
+    column_header = 'Headshot Percentage'
 
-    return render_template('top_players.html', data=data_list)
+    return render_template('top_players.html', data=data_list, column_header=column_header)
 
 
 @app.route('/top_players')
