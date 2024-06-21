@@ -35,17 +35,70 @@ def render_display_page():
     return render_template('display.html', data=data_list)
 
 
-@app.route('/top_players')
-def render_top_players_by_rating_page():
+@app.route('/top_players/rating/<rating>')
+def render_top_players_by_rating_page(rating):
     query = """
     SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
     FROM player_stats
-    WHERE rating > 1
+    WHERE rating > ?
+    ORDER BY rating DESC
     LIMIT 10
     """
     connection = create_connection(DATABASE)
     cursor = connection.cursor()
-    cursor.execute(query)
+    cursor.execute(query, (rating, ))
+    data_list = cursor.fetchall()
+    connection.close()
+
+    return render_template('top_players.html', data=data_list)
+
+@app.route('/top_players/kd/<kd>')
+def render_top_players_by_kd_page(kd):
+    query = """
+    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
+    FROM player_stats
+    WHERE kd_ratio > ?
+    ORDER BY kd_ratio DESC
+    LIMIT 10
+    """
+    connection = create_connection(DATABASE)
+    cursor = connection.cursor()
+    cursor.execute(query, (kd,))
+    data_list = cursor.fetchall()
+    connection.close()
+
+    return render_template('top_players.html', data=data_list)
+
+@app.route('/top_players/total_kills/<total_kills>')
+def render_top_players_by_total_kills_page(total_kills):
+    query = """
+    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
+    FROM player_stats
+    WHERE total_kills > ?
+    ORDER BY total_kills DESC
+    LIMIT 10
+    """
+    connection = create_connection(DATABASE)
+    cursor = connection.cursor()
+    cursor.execute(query, (total_kills, ))
+    data_list = cursor.fetchall()
+    connection.close()
+
+    return render_template('top_players.html', data=data_list)
+
+
+@app.route('/top_players/headshot/<headshot>')
+def render_top_players_by_headshot_percentage_page(headshot):
+    query = """
+    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
+    FROM player_stats
+    WHERE headshot_percentage > ?
+    ORDER BY headshot_percentage DESC
+    LIMIT 10
+    """
+    connection = create_connection(DATABASE)
+    cursor = connection.cursor()
+    cursor.execute(query, (headshot, ))
     data_list = cursor.fetchall()
     connection.close()
 
@@ -53,53 +106,8 @@ def render_top_players_by_rating_page():
 
 
 @app.route('/top_players')
-def render_top_players_by_kd_page():
-    query = """
-    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
-    FROM player_stats
-    WHERE kd_ratio > 1
-    LIMIT 10
-    """
-    connection = create_connection(DATABASE)
-    cursor = connection.cursor()
-    cursor.execute(query)
-    data_list = cursor.fetchall()
-    connection.close()
-
-    return render_template('top_players.html', data=data_list)
-
-
-@app.route('/top_players/<page>')
-def render_top_players_by_total_kills_page(page):
-    query = """
-    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
-    FROM player_stats
-    WHERE total_kills > 1
-    LIMIT 10
-    """
-    connection = create_connection(DATABASE)
-    cursor = connection.cursor()
-    cursor.execute(query, (page, ))
-    data_list = cursor.fetchall()
-    connection.close()
-
-    return render_template('top_players.html', data=data_list)
-
-
-def render_top_players_by_headshot_percentage_page():
-    query = """
-    SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
-    FROM player_stats
-    WHERE headshot_percentage > 1
-    LIMIT 10
-    """
-    connection = create_connection(DATABASE)
-    cursor = connection.cursor()
-    cursor.execute(query)
-    data_list = cursor.fetchall()
-    connection.close()
-
-    return render_template('top_players.html', data=data_list)
+def render_top_players_page():
+    return render_template('top_players.html')
 
 
 @app.route('/search', methods=['GET', 'POST'])

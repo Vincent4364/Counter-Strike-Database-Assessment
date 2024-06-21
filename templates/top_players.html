@@ -2,9 +2,11 @@
 
 {% block content %}
 
-<h1>Top Players</h1>
+<h1>Player Stats - Click on Column Header to Filter Top Players</h1>
 
-{% if data %}
+{% if no_results %}
+    <p>No results found.</p>
+{% else %}
     <div>
         <table>
             <thead>
@@ -12,29 +14,26 @@
                     <th>Nickname</th>
                     <th>Teams Played In</th>
                     <th>Country of Origin</th>
-                    <th>Pro Rating</th>
-                    <th>KD Ratio</th>
-                    <th>Headshot %</th>
-                    <th>Total Kills</th>
+                    <th><a href="{{ url_for('render_top_players_by_rating_page', rating=1) }}">Top 10 by Rating</a></th>
+                    <th><a href="{{ url_for('render_top_players_by_kd_page', kd=1) }}">Top 10 by KD Ratio</a></th>
+                    <th><a href="{{ url_for('render_top_players_by_headshot_percentage_page', headshot=1) }}">Top 10 by Headshot Percentage</a></th>
+                    <th><a href="{{ url_for('render_top_players_by_total_kills_page', total_kills=1) }}">Top 10 by Total Kills</a></th>
                 </tr>
             </thead>
-            <tbody id="TopPlayerStatsTable">
+            <tbody id="playerStatsTable">
                 {% for row in data %}
                 <tr>
-                    <td>{{ row[5] }}</td>  {# Assuming row[5] corresponds to player_name #}
-                    <td>{{ row[3] }}</td>  {# teams_played_in #}
-                    <td>{{ row[4] }}</td>  {# country #}
-                    <td>{{ row[0] }}</td>  {# rating #}
-                    <td>{{ row[2] }}</td>  {# kd_ratio #}
-                    <td>{{ row[1] }}</td>  {# headshot_percentage #}
-                    <td>{{ row[6] }}</td>  {# total_kills #}
+                    <td>{{ row[5] }}</td>
+                    <td>{{ row[3] }}</td>
+                    <td>{{ row[4] }}</td>
+                    <td>{{ row[0] }}</td>
+                    <td>{{ row[2] }}</td>
+                    <td>{{ row[1] }}</td>
+                    <td>{{ row[6] }}</td>
                 </tr>
                 {% endfor %}
             </tbody>
         </table>
     </div>
-{% else %}
-    <p>No results found.</p>
 {% endif %}
-
 {% endblock %}

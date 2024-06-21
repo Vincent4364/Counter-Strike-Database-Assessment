@@ -11,7 +11,7 @@ html {
 header, footer {
     background-color: #2a2a2a; /* Dark gray background */
     padding: 15px;
-    width: 100%;
+    width: 98%;
     font-weight: bolder;
     text-transform: uppercase; /* Uppercase for a strong look */
     border-bottom: 2px solid #444; /* Border for a tactical look */
@@ -22,7 +22,8 @@ nav {
     background-color: #3b3b3b; /* Slightly lighter gray */
     padding: 10px; /* More padding for better click area */
     border-right: 2px solid #444; /* Border for separation */
-    width: 98%;
+    width: 98.5%;
+    opacity: 85%;
 }
 
 nav ul {
@@ -102,16 +103,20 @@ ul li {
     padding: 0; /* Remove padding from list items */
 }
 
-img {
-    position: relative;
-    width: 50%;
-    flex: 1;
-    margin-left: 780px;
-    top: -475px;
-}
-
 tr:hover {
     background-color: #2a2a2a;
+}
+
+p{
+    margin-left: 5px;
+}
+
+h1 {
+    margin-left: 5px;
+}
+
+iframe {
+    margin-left: 5px;
 }
 
 
