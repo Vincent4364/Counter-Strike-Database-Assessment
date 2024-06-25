@@ -1,27 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 
 html {
-    background-color: #1b1b1b; /* Darker background */
-    color: #e0e0e0; /* Light gray for text */
+    background-color: #1b1b1b;
+    color: #e0e0e0;
     font-family: 'Russo One', sans-serif;
     font-size: 16px;
 }
 
 
 header, footer {
-    background-color: #2a2a2a; /* Dark gray background */
+    background-color: #2a2a2a;
     padding: 15px;
     width: 98%;
     font-weight: bolder;
-    text-transform: uppercase; /* Uppercase for a strong look */
-    border-bottom: 2px solid #444; /* Border for a tactical look */
+    text-transform: uppercase;
+    border-bottom: 2px solid #444;
     text-align: center;
 }
 
 nav {
-    background-color: #3b3b3b; /* Slightly lighter gray */
-    padding: 10px; /* More padding for better click area */
-    border-right: 2px solid #444; /* Border for separation */
+    background-color: #3b3b3b;
+    padding: 10px;
+    border-right: 2px solid #444;
     width: 98.5%;
     opacity: 85%;
 }
@@ -33,17 +33,17 @@ nav ul {
 
 nav ul li {
     padding: 5px;
-    border-bottom: 1px solid #444; /* Border between items */
+    border-bottom: 1px solid #444;
 }
 
 a {
-    color: #e0e0e0; /* Light gray for links */
+    color: #e0e0e0;
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: #ff9900; /* Bright orange for hover effect */
+    color: #ff9900;
 }
 
 main {
@@ -53,25 +53,25 @@ main {
 }
 
 table {
-    border: 2px solid #444; /* Darker border */
+    border: 2px solid #444;
     width: 100%;
     border-collapse: collapse;
-    background-color: #1a1a1a; /* Dark background */
+    background-color: #1a1a1a;
 }
 
 th, td {
-    border: 1px solid #555; /* Border color */
-    padding: 10px; /* More padding */
+    border: 1px solid #555;
+    padding: 10px;
 }
 
 th {
     color: #ffffff;
-    background-color: #333333; /* Darker header */
-    text-transform: uppercase; /* Uppercase text */
+    background-color: #333333;
+    text-transform: uppercase;
 }
 
 input[type=text] {
-    padding: 5px; /* More padding */
+    padding: 5px;
     width: 250px;
     height: 30px;
     position: relative;
@@ -79,28 +79,28 @@ input[type=text] {
     outline: none;
     border: 1px solid #555;
     background-color: #1a1a1a;
-    color: #e0e0e0; /* Light text color */
+    color: #e0e0e0;
     font-size: 16px;
 }
 
 .advancedSearchTextbox {
     width: 526px;
     margin-right: -4px;
-    background-color: #0c0c0c; /* Same as body */
-    border: 1px solid #444; /* Darker border */
-    color: #ffffff; /* White text */
+    background-color: #0c0c0c;
+    border: 1px solid #444;
+    color: #ffffff;
 }
 
 
 ul {
-    list-style-type: none; /* Remove bullet points */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 ul li {
-    margin: 0; /* Remove margin from list items */
-    padding: 0; /* Remove padding from list items */
+    margin: 0;
+    padding: 0;
 }
 
 tr:hover {

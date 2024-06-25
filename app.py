@@ -121,24 +121,22 @@ def render_search_page():
     if request.method == 'POST':
         look_up = request.form['Search']
         search_term = look_up
-        title = "Search for: '" + look_up + "'"
         look_up = "%" + look_up + "%"
         query = """
         SELECT rating, headshot_percentage, kd_ratio, teams_played_in, country, player_name, total_kills
         FROM player_stats
-        WHERE player_name LIKE ? OR teams_played_in LIKE ? OR country LIKE ?
+        WHERE player_name LIKE ? OR teams_played_in LIKE ? OR country LIKE ? OR headshot_percentage LIKE ? OR kd_ratio 
+        LIKE ? OR total_kills LIKE ? OR rating LIKE ?
         """
         connection = create_connection(DATABASE)
         cursor = connection.cursor()
-        cursor.execute(query, (look_up, look_up, look_up))
+        cursor.execute(query, (look_up, look_up, look_up, look_up, look_up, look_up, look_up))
         data_list = cursor.fetchall()
         connection.close()
 
         no_results = len(data_list) == 0
 
         return render_template('display.html', data=data_list, search_term=search_term, no_results=no_results)
-
-    return render_template('search.html')
 
 
 if __name__ == '__main__':
